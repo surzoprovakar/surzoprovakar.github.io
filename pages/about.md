@@ -5,7 +5,7 @@ permalink: /about/
 weight: 5
 ---
 
-# **About Me** <a href = "https://drive.google.com/file/d/1yCpm_bxYdX6mqVrgPT-1lFXBo8916Zer/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font size = "-0.8"><b>CV</b></font></a>
+## **About Me** <a href = "https://drive.google.com/file/d/1yCpm_bxYdX6mqVrgPT-1lFXBo8916Zer/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font size = "-0.8"><b>CV</b></font></a>
 
 Hi I am <b>Provakar</b>. <br>
 I work as a full-time <b>Software Engineer</b> at Samsung R&D Institute, Bangladesh. <br>

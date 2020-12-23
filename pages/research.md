@@ -2,7 +2,7 @@
 layout: default
 title: Research 
 permalink: /research/
-weight: 1
+weight: 3
 ---
 <br/>
 

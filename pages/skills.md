@@ -2,11 +2,13 @@
 layout: default
 title: Skills 
 permalink: /skills/
-weight: 3
+weight: 4
 ---
 <br/>
 
 ### **Skills**
+<br>
+
 **Languages:**
 - C#, Python, Java, C, C++, JS (TypeScript),CSS, XAML 
 

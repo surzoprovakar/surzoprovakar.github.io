@@ -10,13 +10,15 @@ weight: 1
 <br>
 
 ##### <a href = "https://www.microsoft.com/en-us/p/samsung-notes/9nblggh43vhv?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows Samsung Notes</b></a>
+<font color = "#989898">December, 2019 - PRESENT</font>
 - Developed an advanced middleware to transfer delta data between the cloud and the application.
 - Designed and developed a proof of concept (PoC) application with the support of a provided SDK.
 - Integrated the tasks of the PoC application to the main project.
 - GUI design and implementation, bug fixing, quality testing, issue reporting, technical writing and diagraming.
 <br>
 
-##### <a href = "https://www.microsoft.com/en-us/p/smartthings/9nhw1sb8b92l?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows SmartThings</b></a> 
+##### <a href = "https://www.microsoft.com/en-us/p/smartthings/9nhw1sb8b92l?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows SmartThings</b></a>
+<font color = "#989898">May, 2019 - November, 2019</font> 
 - GUI implementation.
 - Bug fixing, quality testing.
 <br> 

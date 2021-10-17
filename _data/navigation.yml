@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CourseWorks"
+    url: /courseworks/    
+
+  - title: "Research"
+    url: /research/    
+    
+  - title: "Skills"
+    url: /skills/
+        
+  - title: "CV"
+    url: /cv/
+    

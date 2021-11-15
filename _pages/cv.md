@@ -23,5 +23,7 @@ author_profile: true
   - Designing delta data transfer to cloud server for software project
   - Enabling cloud synchronization operations of the data for software project
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
-
-<a href = "https://drive.google.com/file/d/1sMhb_weqEZRWWfupttbZb2iTMHeBCqSU/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my full Curriculum Vitae</i></b></font></a>
+  
+<!---
+<a href = "https://drive.google.com/file/d/1sMhb_weqEZRWWfupttbZb2iTMHeBCqSU/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my full Curriculum Vitae</i></b></font></a> 
+--->

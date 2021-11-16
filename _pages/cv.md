@@ -16,6 +16,15 @@ author_profile: true
     July 2012 - Apr 2014, Jessore, Bangladesh
 
 ##### <font size = "+2.5"><b>Work experience</b></font>
+- ###### <font size = "+1.5"><b>Graduate Teaching Assistant, Department of Computer Science, Virginia Tech</b></font>
+    August 2021 - Present<br>
+    <b>Course Title: Introduction to Computer Organization</b> <br>
+    Torgersen Hall, Blacksburg, Virginia, 24060
+  - Guiding students to understand course materials and assignments
+  - Evaluating lab assignments
+  - Assisting course instructors with preparing exam papers and lab assignments
+  - Grading course exams
+
 - ###### <font size = "+1.5"><b>Software Engineer, Samsung R&D Institute, Bangladesh</b></font>
     May 2019 - July 2021<br>
     111 Bir Uttam CR Dutta Rd, Dhaka 1205
@@ -24,6 +33,6 @@ author_profile: true
   - Enabling cloud synchronization operations of the data for software project
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
   
-
-<a href = "https://drive.google.com/file/d/1sMhb_weqEZRWWfupttbZb2iTMHeBCqSU/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my full Curriculum Vitae</i></b></font></a> 
+<br> <br>
+<a href = "https://drive.google.com/file/d/15YlPljvrkROxhXLnvwSr9naI71jRNo_O/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my full Curriculum Vitae</i></b></font></a> 
 

@@ -21,6 +21,19 @@ author_profile: true
 <br> 
 
 ### <font size = "+2.5"><b>Academic Projects</b></font>
+
+###### <font size = "+1.5"><b>D-CRDT</b></font>
+- Implemented dockerized Conflict-Free Replicated Data Type (CRDT) replica inside docker container to provide operating environment independency.
+<br>
+
+###### <font size = "+1.5"><b>Relevance Ranking for Tweet Search</b></font>
+- Implemented an Information Retrieval (IR) model using BM25, RankNet, and TF-Ranking to rank the relevance of Twitter data about Covid-19.
+<br>
+
+###### <font size = "+1.5"><b>Virginia Tech Insect Collection (VTEC)</b></font>
+- Visualization: Visualized a 3D model of insect specimen focussing on the domain of Geographical, Network Graph, and Classification by applying D3-observable.
+<br>
+
 ###### <font size = "+1.5"><b>Sentiment Analysis</b></font>
 - Implemented movie rating prediction using Deep Learning’s models LSTM (Long Short Term Memory), MLP (Multi Layer Perceptron), CNN (Convolutional Neural Network).
 <br>

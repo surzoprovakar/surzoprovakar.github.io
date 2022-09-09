@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "CourseWorks"
-    url: /courseworks/    
+  # - title: "CourseWorks"
+  #   url: /courseworks/    
 
   - title: "Research"
     url: /research/    

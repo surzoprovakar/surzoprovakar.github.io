@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Languages:**
-- C#, Python, Java, C, C++, JS (TypeScript), CSS, XAML 
+- Go, Python, Java, Scala, Prolog, C#, C, C++, JavaScript, TypeScript, CSS, XAML, HTML
 
 **Databases:**
 - Oracle, MySQL, MongoDB, SQLite

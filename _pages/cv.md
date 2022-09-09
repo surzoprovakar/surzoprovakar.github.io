@@ -39,5 +39,5 @@ author_profile: true
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
   
 <br> <br>
-<a href = "https://drive.google.com/file/d/1s3k-244n-A5NfdTTQcBoWgZv8zNeWgKh/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
+<a href = "https://drive.google.com/file/d/1coZkQHCJ1bZ2udRdsVDZ4WB8SSzKrcr7/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
 

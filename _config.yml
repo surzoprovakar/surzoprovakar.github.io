@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Provakar Mondal"
   avatar           : "provakar.jpg"
-  bio              : "<b>Graduate Teaching Assistant</b>"
+  bio              : "<b>Graduate Research Assistant</b>"
   location         : "Blacksburg, VA, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "surzoprovakar@gmail.com"
+  email            : "provakar@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   github           : "surzoprovakar"
   linkedin         : "provakar-m"
   twitter          : "Provakar034"
-  facebook         : "provakar.raju/"
+  #facebook         : "provakar.raju/"
   foursquare       :
   google_plus      :
   keybase          :

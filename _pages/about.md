@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-I am a second-year PhD student and <b>Graduate Research Assistant</b> at the <a href = "https://cs.vt.edu/" target="_blank"> Department of Computer Science</a> of <a href = "https://vt.edu/" target="_blank"> Virginia Tech</a>. I work under the supervision of <a href = "https://people.cs.vt.edu/~tilevich/" target = "_blank">Dr.T.</a> as a PhD Researcher in the Software Innovations Lab. My research interests lie in the fields of Distributed Systems, Edge Computing, Client-Server Insourcing, Middleware, and Systems end of Software Engineering. <br><br> 
+I am a third-year PhD student and <b>Graduate Research Assistant</b> at the <a href = "https://cs.vt.edu/" target="_blank"> Department of Computer Science</a> of <a href = "https://vt.edu/" target="_blank"> Virginia Tech</a>. I work under the supervision of <a href = "https://people.cs.vt.edu/~tilevich/" target = "_blank">Dr.T.</a> as a PhD Researcher in the Software Innovations Lab. My research interests lie in the fields of Distributed Systems, Edge Computing, Client-Server Insourcing, Middleware, and Systems end of Software Engineering. <br><br> 
 
 Before coming to Virginia Tech, I worked as a full-time <b>Software Engineer</b> at <a href = "https://research.samsung.com/srbd" target="_blank"> Samsung R&D Institute Bangladesh (SRBD)</a>. Our team developed Universal Windows Platform (UWP) applications that can be used across all compatible Microsoft Windows devices, including personal computers (PCs), tablets, smartphones, Xbox One, Microsoft HoloLens, and the Internet of Things (IoT). <br><br>
 

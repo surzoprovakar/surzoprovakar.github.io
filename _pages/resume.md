@@ -41,5 +41,4 @@ author_profile: true
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
   
 <br> <br>
-<a href = "surzoprovakar.github.io/_pages/Provakar_Resume.pdf" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
-
+<a href = "https://drive.google.com/file/d/1OBfXS948mpoo4_ayvzefWlxKa_27ZkJc/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 ---
 ##### <font size = "+2.5"><b>Education</b></font>
@@ -24,6 +24,8 @@ author_profile: true
   - Assisting course instructors with preparing exam papers and lab assignments
   - Grading course exams
 
+  <b>Fall'23 -> CS3314: Prog Lang Theory & Practice</b><br>
+  <b>Spring'23 -> CS 3304: Comparative Languages</b><br>
   <b>Fall'22 -> CS3314: Prog Lang Theory & Practice</b><br>
   <b>Summer'22 -> CS3114: Data Structures & Algorithms</b><br>
   <b>Spring'22 -> CS2505: Computer Organization I</b><br>
@@ -39,5 +41,5 @@ author_profile: true
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
   
 <br> <br>
-<a href = "https://drive.google.com/file/d/1coZkQHCJ1bZ2udRdsVDZ4WB8SSzKrcr7/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
+<a href = "surzoprovakar.github.io/_pages/Provakar_Resume.pdf" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
 

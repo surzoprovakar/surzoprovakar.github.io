@@ -16,8 +16,15 @@ author_profile: true
     July 2012 - Apr 2014, Jessore, Bangladesh
 
 ##### <font size = "+2.5"><b>Work experience</b></font>
-- ###### <font size = "+1.5"><b>Graduate Teaching Assistant, Department of Computer Science, Virginia Tech</b></font>
+- ###### <font size = "+1.5"><b>Graduate Research Assistant</b></font>
     August 2021 - Present<br>
+    Software Innovations Lab, Virginia Tech
+    - Conducting Research on Replicated Data Systems.
+    - Developing Service-oriented Middleware to provide additional fetaures to CRDT.
+    - Fuzzing and Debugging CRDT.
+
+- ###### <font size = "+1.5"><b>Graduate Teaching Assistant</b></font>
+    August 2021 - December 2023<br>
     Virginia Tech, Dept. of Computer Science, Blacksburg, Virginia, 24060
   - Guiding students to understand course materials and assignments
   - Evaluating lab assignments
@@ -41,4 +48,4 @@ author_profile: true
   - Bug fixing, quality testing, issue reporting, technical writing and diagraming
   
 <br> <br>
-<a href = "https://drive.google.com/file/d/1OBfXS948mpoo4_ayvzefWlxKa_27ZkJc/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a> 
+<!-- <a href = "https://drive.google.com/file/d/1OBfXS948mpoo4_ayvzefWlxKa_27ZkJc/view?usp=sharing" target="_blank" rel="noopener noreferrer"><font face = "Segoe Print" size = "+1.5"><b><i>Click here to see my Resume</i></b></font></a>  -->

@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+#### <font size = "+2.5"><b>Publications</b></font>
+- <b>Undoing CRDT Operations Automatically</b> in the 14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023). Provakar Mondal and Eli Tilevich. In Print.
+
 #### <font size = "+2.5"><b>Research Interests</b></font>
 
 <img src = "/images/research.png" style = "padding:30px">
@@ -38,7 +42,12 @@ author_profile: true
 
 ##### <font size = "+1.5"><b>Enhancing Security and Reliability in Distributed Replicated Data</b></font>
 Software Innovations Lab, led by Dr. Eli Tilevich, Virginia Tech
-- Designing and implementing a Service Level Agreement (SLA) compiled by an Autonoums Trust Management framework for security maintenance in Conflict-Free Replicated Data Types (CRDT). 
+- Conducting research in Distributed Replicated Data Systems and Automated Fuzz Testing. <br>
+-- Developed a middleware to add advanced functionalities to Conflict-Free Replicated Data Types (CRDTs) libraries without modifying the source code, which benefits application developers from add-hoc solutions. <br>
+-- Improved Software Engineering Support to Distributed Systems using binary instrumentation that enhances debugging
+for the systems. <br>
+-- Working on performance improvement for Greybox Fuzz Testing by improving the snapshots mechanism for existing
+fuzzers. <br>
 - Submitted Grant Proposals to the National Science Foundation (NSF) and Commonwealth Cyber Initiative (CCI) as a co-author of Professor Dr. Tilevich.
 
 ##### <font size = "+1.5"><b>Enabling GPGPU Frameworks for HSA enabled APUs without Discrete GPU support</b></font>

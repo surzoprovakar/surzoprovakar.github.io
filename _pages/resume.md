@@ -20,7 +20,7 @@ author_profile: true
     August 2021 - Present<br>
     Software Innovations Lab, Virginia Tech
     - Conducting Research on Replicated Data Systems.
-    - Developing Service-oriented Middleware to provide additional fetaures to CRDT.
+    - Developing Service-oriented Middleware to provide additional features to CRDT.
     - Fuzzing and Debugging CRDT.
 
 - ###### <font size = "+1.5"><b>Graduate Teaching Assistant</b></font>

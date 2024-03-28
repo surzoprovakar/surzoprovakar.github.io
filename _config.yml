@@ -86,7 +86,7 @@ author:
   location         : "Blacksburg, VA, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Fd8CN6AAAAAJ&hl=en"
   email            : "provakar@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   github           : "surzoprovakar"
   linkedin         : "provakar-m"
-  twitter          : "Provakar034"
+  # twitter          : "Provakar034"
   #facebook         : "provakar.raju/"
   foursquare       :
   google_plus      :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-9990-0753"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

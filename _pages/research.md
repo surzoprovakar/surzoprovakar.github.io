@@ -42,7 +42,7 @@ author_profile: true
 
 ##### <font size = "+1.5"><b>Enhancing Security and Reliability in Distributed Replicated Data</b></font>
 Software Innovations Lab, led by Dr. Eli Tilevich, Virginia Tech
-- Conducting research in Distributed Replicated Data Systems and Automated Fuzz Testing. <br>
+- Conducting research on Distributed Replicated Data Systems and Fuzz Testing. <br>
 -- Developed a middleware to add advanced functionalities to Conflict-Free Replicated Data Types (CRDTs) libraries without modifying the source code, which benefits application developers from add-hoc solutions. <br>
 -- Improved Software Engineering Support to Distributed Systems using binary instrumentation that enhances debugging
 for the systems. <br>

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### <font size = "+2.5"><b>Publications</b></font>
-- <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> <b>Undoing CRDT Operations Automatically</b></a> in the 14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023). Provakar Mondal and Eli Tilevich.
+- <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> <b>Undoing CRDT Operations Automatically</b></a> in the 14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023), Provakar Mondal and Eli Tilevich: An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries improving undo efficiency by 16% without manual modification of the library code.
 
 #### <font size = "+2.5"><b>Research Interests</b></font>
 
@@ -40,15 +40,12 @@ author_profile: true
 
 #### <font size = "+2.5"><b>Research Experience</b></font>
 
-##### <font size = "+1.5"><b>Enhancing Security and Reliability in Distributed Replicated Data</b></font>
+##### <font size = "+1.5"><b>Conducting research on the Intersection of Distributed Computing and Software Engineering</b></font>
 Software Innovations Lab, led by Dr. Eli Tilevich, Virginia Tech
-- Conducting research on Distributed Replicated Data Systems and Fuzz Testing. <br>
--- Developed a middleware to add advanced functionalities to Conflict-Free Replicated Data Types (CRDTs) libraries without modifying the source code, which benefits application developers from add-hoc solutions. <br>
--- Improved Software Engineering Support to Distributed Systems using binary instrumentation that enhances debugging
-for the systems. <br>
--- Working on performance improvement for Greybox Fuzz Testing by improving the snapshots mechanism for existing
-fuzzers. <br>
-- Submitted Grant Proposals to the National Science Foundation (NSF) and Commonwealth Cyber Initiative (CCI) as a co-author of Professor Dr. Tilevich.
+- Created a service-oriented middleware that enhances replicated data libraries with fault-handling capabilities, utilizing novel integration techniques that require no direct source code modification (Go, JavaScript, C#, and C++). <br>
+- Introduced comprehensive integration testing support for replicated data libraries, increasing test coverage by 32% by exercising exhaustive possible interleavings between libraries and application interactions (Go, Java, JavaScript, and Datalog). <br>
+- Provided multilingual support for replicated data libraries to empower application developers to use the best programming language for application needs while ensuring compatibility and high performance across platforms (Go, Java, JavaScript, and C++). <br>
+- Assisted the Principal Investigator (PI) in submitting Grant Proposals to the National Science Foundation (NSF) and Commonwealth Cyber Initiative (CCI).
 
 ##### <font size = "+1.5"><b>Enabling GPGPU Frameworks for HSA enabled APUs without Discrete GPU support</b></font>
 <div style="text-align: justify">

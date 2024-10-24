@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/ 
+    
   - title: "Projects"
     url: /projects/
 
   # - title: "CourseWorks"
-  #   url: /courseworks/    
-
-  - title: "Research"
-    url: /research/    
+  #   url: /courseworks/       
     
   - title: "Skills"
     url: /skills/

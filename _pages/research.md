@@ -6,48 +6,26 @@ author_profile: true
 ---
 
 #### <font size = "+2.5"><b>Publications</b></font>
-- <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> <b>Undoing CRDT Operations Automatically</b></a> in the 14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023), Provakar Mondal and Eli Tilevich: An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries improving undo efficiency by 16% without manual modification of the library code.
-
-#### <font size = "+2.5"><b>Research Interests</b></font>
-
-<img src = "/images/research.png" style = "padding:30px">
-<!-- <table style="border: 0">
-    <tr>
-        <td style="border: 0"></td>
-        <td style="border: 0"><li><font size = "+1.2">Distributed System</font></li></td>
-        <td style="border: 0"><li><font size = "+1.2">Software Engineering</font></li></td>
-        <td style="border: 0"></td>
-    </tr>
-    <tr>
-        <td style="border: 0"></td>
-        <td style="border: 0"><li><font size = "+1.2">Pattern Recognition</font></li></td>
-        <td style="border: 0"><li><font size = "+1.2">Computer Graphics</font></li></td>
-        <td style="border: 0"></td>
-    </tr>
-    <tr>
-        <td style="border: 0"></td>
-        <td style="border: 0"><li><font size = "+1.2">Machine Learning</font></li></td>
-        <td style="border: 0"><li><font size = "+1.2">Image Processing</font></li></td>
-        <td style="border: 0"></td>
-    </tr>
-    <tr>
-        <td style="border: 0"></td>
-        <td style="border: 0"><li><font size = "+1.2">Computational Physics</font></li></td>
-        <td style="border: 0"><li><font size = "+1.2">Human Computer Interaction</font></li></td>
-        <td style="border: 0"></td>
-    </tr>
-</table> -->
+- <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> <b>ER-𝜋: Exhaustive Interleaving Replay for
+Testing Replicated Data Library Integration</b></a> in the *26th ACM/IFIP International Middleware Conference (2025)*, **Provakar Mondal** and Eli Tilevich: A middleware system that provides integration testing support to verify the interactions between replicated data libraries and distributed application logic via exhaustive interleaving replay, reducing the problem space with <ins>four</ins> novel pruning algorithms, replicating <ins>12</ins> known bugs, and uncovering <ins>5</ins> common misconceptions.
+- <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> <b>Undoing CRDT Operations Automatically</b></a> in the *14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023)*, **Provakar Mondal** and Eli Tilevich: An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries improving undo efficiency by <ins>16%</ins> without manual modification of the library code.
 
 #### <font size = "+2.5"><b>Research Experience</b></font>
 
 ##### <font size = "+1.5"><b>Conducting research on the Intersection of Distributed Computing and Software Engineering</b></font>
 Software Innovations Lab, led by Dr. Eli Tilevich, Virginia Tech
-- Created a service-oriented middleware that enhances replicated data libraries with fault-handling capabilities, utilizing novel integration techniques that require no direct source code modification (Go, JavaScript, C#, and C++). <br>
-- Introduced comprehensive integration testing support for replicated data libraries, increasing test coverage by 32% by exercising exhaustive possible interleavings between libraries and application interactions (Go, Java, JavaScript, and Datalog). <br>
-- Provided multilingual support for replicated data libraries to empower application developers to use the best programming language for application needs while ensuring compatibility and high performance across platforms (Go, Java, JavaScript, and C++). <br>
+- Created a service-oriented middleware that enhances replicated data libraries with error-handling capabilities by <ins>25%</ins>, utilizing novel
+integration techniques requiring no direct source code modification (Go, JavaScript, C#, and C++). <br>
+- Introduced comprehensive integration testing support for replicated data libraries, increasing test coverage by <ins>32%</ins>, exercising exhaustive interleavings between libraries and application interactions (Go, Java, JavaScript, and Datalog). <br>
+- Provided multilingual support for replicated data libraries to empower application developers to use the best programming language for application needs while ensuring compatibility and high performance by <ins>54%</ins> across platforms (Go, Java, JavaScript, and C++). <br>
 - Assisted the Principal Investigator (PI) in submitting Grant Proposals to the National Science Foundation (NSF) and Commonwealth Cyber Initiative (CCI).
 
 ##### <font size = "+1.5"><b>Enabling GPGPU Frameworks for HSA enabled APUs without Discrete GPU support</b></font>
 <div style="text-align: justify">
 Undergraduate thesis under the supervision of <a href = "https://cse.buet.ac.bd/faculty_list/detail/rifat" target="_blank" rel="noopener noreferrer"> Dr. Rifat Shahriyar</a>. We devised a toolkit for AMD HSA (Heterogeneous System Architecture) accelerated processing units to leverage GPGPU (General Purpose Graphics Processing Units) libraries of high-level languages, such as APARAPI (A PARallel API) or TornadoVM. We translated the OpenCL file generated by such frameworks to HSA specific IR (Intermediate Representation) called HSAIL (Heterogeneous System Architecture Intermediate Language), which we then compiled into runnable BRIG format.
 </div>
+
+<br>
+#### <font size = "+2.5"><b>Research Interests</b></font>
+
+<img src = "/images/research.png" style = "padding:30px">

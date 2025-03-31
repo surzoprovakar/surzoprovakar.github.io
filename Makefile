@@ -1,2 +1,2 @@
-brun:
+run:
 	bundle exec jekyll serve

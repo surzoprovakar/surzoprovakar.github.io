@@ -72,7 +72,7 @@ I love mountaineering, hiking, cycling, reading story books, and playing a lot o
     <span>Received my Master of Science (M.S.) along the way from Virginia Tech, Department of Computer Science.</span>
   </li>
   <li><strong>Dec 2023</strong>
-    <span>Presented our paper <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a> virtually.</span>
+    <span>Presented our paper <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a>. <a href = "https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer">[Slide]</a></span>
   </li>
   <li><strong>Oct 2023</strong>
     <span>Our paper <a href = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475806" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a> got accepted in <a href = "https://parsec2.unicampania.it/cloudcom2023/" target="_blank" rel="noopener noreferrer">IEEE CloudCom 2023.</a></span>

@@ -83,8 +83,9 @@ author:
   name             : "Provakar Mondal"
   avatar           : "provakar.jpg"
   bio              : "<b>Graduate Research Assistant</b>"
+  employer         : "Software Innovations Lab"
+  affiliation      : "Virginia Tech"
   location         : "Blacksburg, VA, USA"
-  employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Fd8CN6AAAAAJ&hl=en"
   email            : "provakar@vt.edu"

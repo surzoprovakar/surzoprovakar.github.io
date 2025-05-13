@@ -5,20 +5,43 @@ permalink: /projects/
 author_profile: true
 ---
 
-### <font size = "+2.5"><b>Professional Projects</b></font>
-##### <font size = "+1.5"><a href = "https://www.microsoft.com/en-us/p/samsung-notes/9nblggh43vhv?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows Samsung Notes</b></a></font>
-<font size = "-0.5" color = "black">December, 2019 - July, 2021</font>
-- Developed an advanced middleware to transfer delta data between the cloud and the application.
-- Designed and developed a proof of concept (PoC) application with the support of a provided SDK.
-- Integrated the tasks of the PoC application to the main project.
-- GUI design and implementation, bug fixing, quality testing, issue reporting, technical writing and diagraming.
-<br>
+### <font size = "+2.5"><b>Research Projects</b></font>
 
-##### <font size = "+1.5"><a href = "https://www.microsoft.com/en-us/p/smartthings/9nhw1sb8b92l?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows SmartThings</b></a></font>
-<font size = "-0.5" color = "black">May, 2019 - November, 2019</font> 
-- GUI implementation.
-- Bug fixing, quality testing.
-<br> 
+
+### <font size = "+2.5"><b>Samsung Projects</b></font>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+
+  <div style="width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 10px; text-align: center;"><b>Windows Samsung Notes</b></h3>
+    <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
+      <img src="/images/samsung-notes-icon.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    </div>
+    <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
+      Implemented <b>6</b> new features and engineered a &#x2206;-data transferable middleware between Notes and Samsung Cloud, reducing synchronization latency by <b>27%</b>.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
+      <b>Languages:</b> C#, Java, C++, XAML
+    </p>
+    <a href="https://www.samsung.com/us/support/owners/app/samsung-notes" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More</a>
+  </div>
+
+   <div style="width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 10px; text-align: center;"><b>Windows SmartThings</b></h3>
+    <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
+      <img src="/images/smartthings.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    </div>
+    <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
+      Improved user experience through GUI enhancements, bug fixes, and leadership in quality assurance, including testing, issue reporting, and documentation.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
+      <b>Languages:</b> C#, C++, XAML
+    </p>
+    <a href="https://www.samsung.com/us/smartthings/" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More</a>
+  </div>
+
+</div>
+
 
 ### <font size = "+2.5"><b>Academic Projects</b></font>
 

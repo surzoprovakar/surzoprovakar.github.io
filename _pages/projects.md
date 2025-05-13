@@ -7,6 +7,54 @@ author_profile: true
 
 ### <font size = "+2.5"><b>Research Projects</b></font>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+
+  <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 10px; text-align: center;"><b>ER-𝜋: Exhaustive Integration Testing via Optimized Interleavings Replay</b></h3>
+    <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
+      <img src="/images/ER-PI-Simple.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    </div>
+    <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
+      Introduced exhaustive integration testing for replicated data libraries, boosting test coverage by <b>32%</b> by applying domain-specific constraints to optimize interleavings replay between libraries and application interactions.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
+      <b>Languages:</b> Go, Java, JavaScript, Datalog
+    </p>
+    <a href="https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Paper</a>
+    <a href="https://github.com/surzoprovakar/Integration-Testing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
+  </div>
+
+   <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 10px; text-align: center;"><b>HUE: Handling Update Errors in Replicated Data Systems</b></h3>
+    <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
+      <img src="/images/HUE.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    </div>
+    <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
+      Created a service-oriented Middleware that enhances error handling for replicated data libraries by <b>25%</b> by tracing the distributed effects of erroneous updates and using integration techniques without modifying library code.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
+      <b>Languages:</b> Go, JavaScript, C#, C++
+    </p>
+    <a href="https://github.com/surzoprovakar/Error-Handling-Middleware" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
+  </div>
+
+  <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; margin-bottom: 10px; text-align: center;"><b>BabelRDL: Breaking Language Barriers in Implementing and
+Extending RDL</b></h3>
+    <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
+      <img src="/images/BabelRDL.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    </div>
+    <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
+      Provided multilingual support for replicated data systems, increasing performance by <b>54%</b> and software quality by <b>38%</b> by empowering application developers to choose the best programming language for application needs.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
+      <b>Languages:</b> Go, Java, JavaScript, C++, Protobuf
+    </p>
+    <a href="https://github.com/surzoprovakar/Multilingual-RDL" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
+  </div>
+
+</div>
+
 
 ### <font size = "+2.5"><b>Samsung Projects</b></font>
 

@@ -12,6 +12,6 @@ main:
   - title: "Skills"
     url: /skills/
         
-  # - title: "Resume"
-  #   url: /resume/
+  - title: "Resume"
+    url: /resume/
     

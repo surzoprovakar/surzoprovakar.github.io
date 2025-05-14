@@ -5,7 +5,7 @@ permalink: /skills/
 author_profile: true
 ---
 
-**Languages:**
+## Languages ##
 <!-- - Go, C++, C, C#, Python, Java, JavaScript, Scala, TypeScript, Prolog, CSS, XAML, HTML -->
 <span title="Go">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="40" style="vertical-align: middle;"/>
@@ -47,7 +47,7 @@ author_profile: true
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="vertical-align: middle;"/>
 </span>
 
-**Databases:**
+## Databases ##
 <!-- - Oracle, MySQL, MongoDB, SQLite -->
 <span title="Oracle">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70" height="70" style="vertical-align: middle;"/>
@@ -62,7 +62,7 @@ author_profile: true
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="30" style="vertical-align: middle;"/>
 </span>
 
-**Platforms:**
+## Platforms ##
 - **Operating Systems:**
 <span title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="40" style="vertical-align: middle;">
@@ -95,7 +95,7 @@ author_profile: true
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30" style="vertical-align: middle;">
 </span>
 
-**Technologies:**
+## Technologies ##
 - **DevOps:**
 <span title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" style="vertical-align: middle;">

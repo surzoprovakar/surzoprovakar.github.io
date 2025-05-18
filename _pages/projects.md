@@ -64,7 +64,7 @@ Extending RDL</b></h3>
     <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
       <b>Languages:</b> JavaScript, Python
     </p>
-    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10475806&casa_token=WtkfdIdDRYQAAAAA:z9uYQAHCWt33qyOF8Hku6wkQE-Kt3eIU97E7nOWLgOLQJJK0lOAjfT4xeNNFt-GjsAOi-WodVOH9" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Paper</a>
+    <a href="https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Paper</a>
     <a href="https://github.com/surzoprovakar/Auto_Undo" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
   </div>
 

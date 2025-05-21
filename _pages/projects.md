@@ -74,7 +74,7 @@ Extending RDL</b></h3>
       <img src="/images/trust_replica.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
     </div>
     <p style="font-size: 0.95em; line-height: 1.4; text-align: justify; margin-top: 10px;">
-      Ensured trustworthy distributed data replication by integrating Autonomous Trust Management (ATM) and Service Level Agreement (SLA) into replicated data systems, enhancing system reliability by <b>21%</b> under malicious data.
+      Ensured trustworthy distributed data replication by integrating Autonomous Trust Management (ATM) and Service Level Agreement (SLA) into replicated data systems, enhancing system reliability by <b>21%</b> under malicious updates.
     </p>
     <p style="font-size: 0.9em; line-height: 1.4; text-align: justify; margin-top: 8px; margin-bottom: 0;">
       <b>Languages:</b> Go, Python, JSON

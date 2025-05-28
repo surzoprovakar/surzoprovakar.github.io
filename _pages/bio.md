@@ -36,14 +36,14 @@ author_profile: true
       <strong>Department of Computer Science, Virginia Tech</strong><br>
       Graduate Instructor<br>
       Summer 2025<br>
-      <i>Intermediate Programming in Python</i>
+      Teaching <i>Intermediate Programming in Python</i>
     </p>
   </div>
 
   <!-- Right Image Block -->
   <div style="width: 140px; height: 140px; flex-shrink: 0;">
-    <img src="/images/VTCS.svg" alt=""
-         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+    <img src="/images/VTCS.png" alt=""
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </div>
 </div>
 

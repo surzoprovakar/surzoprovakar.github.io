@@ -63,7 +63,7 @@ I love mountaineering, hiking, cycling, reading story books, and playing a lot o
 
 <ul class="recent-news">
   <li><strong>May 2025</strong> 
-    <span>I will teach <a href = "https://static.cs.vt.edu/Undergraduate/courses/CS2064.html#:~:text=CS%202064%20(Intermediate%20Programming%20in,first%20course%20in%20the%20series." target="_blank" rel="noopener noreferrer">CS 2064: Intermediate Programming in Python</a> in Summer 2025.</span>
+    <span>I will work as a Graduate Instructor at the Department of Computer Science, Virginia Tech, and teach <a href = "https://static.cs.vt.edu/Undergraduate/courses/CS2064.html#:~:text=CS%202064%20(Intermediate%20Programming%20in,first%20course%20in%20the%20series." target="_blank" rel="noopener noreferrer">CS 2064: Intermediate Programming in Python</a> in Summer 2025.</span>
   </li>
   <li><strong>Mar 2025</strong> 
     <span>Our paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> ER-𝜋: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</a> got accepted in <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP Middleware 2025</a>.</span>

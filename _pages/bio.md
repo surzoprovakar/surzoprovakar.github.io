@@ -33,6 +33,24 @@ author_profile: true
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
+      <strong>Department of Computer Science, Virginia Tech</strong><br>
+      Graduate Instructor<br>
+      Summer 2025<br>
+      <i>Intermediate Programming in Python</i>
+    </p>
+  </div>
+
+  <!-- Right Image Block -->
+  <div style="width: 140px; height: 140px; flex-shrink: 0;">
+    <img src="/images/VTCS.svg" alt=""
+         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+  </div>
+</div>
+
+<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+  <!-- Left Text Block -->
+  <div style="flex: 1; padding-right: 15px;">
+    <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Samsung Research, Bangladesh</strong><br>
       Software Engineer<br>
       May 2019 – July 2021<br>

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Bio"
-permalink: /bio/
+title: ""
+permalink: /background/
 author_profile: true
 ---
 

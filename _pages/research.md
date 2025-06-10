@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
-
 #### <font size = "+2.5"><b>Publications</b></font>
 - <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> <b>ER-𝜋: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</b></a> in the *26th ACM/IFIP International Middleware Conference (2025)*, **Provakar Mondal** and Eli Tilevich: A middleware system that provides integration testing support to verify the interactions between replicated data libraries and distributed application logic via exhaustive interleaving replay, reducing the problem space with <ins>four</ins> novel pruning algorithms, replicating <ins>12</ins> known bugs, and uncovering <ins>5</ins> common misconceptions.
 - <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> <b>Undoing CRDT Operations Automatically</b></a> in the *14th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2023)*, **Provakar Mondal** and Eli Tilevich: An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries improving undo efficiency by <ins>16%</ins> without manual modification of the library code.

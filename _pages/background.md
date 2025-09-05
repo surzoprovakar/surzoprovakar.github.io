@@ -18,7 +18,7 @@ author_profile: true
       <strong>Software Innovations Lab, Virginia Tech</strong><br>
       Graduate Research Assistant<br>
       August 2021 – Present<br>
-      <i>Advisor: Dr. Eli Tilevich</i>
+      <i>Advisor: <a href = "https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a></i>
     </p>
   </div>
 
@@ -33,10 +33,28 @@ author_profile: true
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
+      <strong>Technology-enhanced Learning and Online Strategies (TLOS), Virginia Tech</strong><br>
+      Graduate Application Developer<br>
+      August 2025 – Present<br>
+      <i>Advisor: <a href = "https://tlos.vt.edu/about/directory/personnel/kovach_c.html" target="_blank">Chris Kovach</a></i>
+    </p>
+  </div>
+
+  <!-- Right Image Block -->
+  <div style="width: 140px; height: 140px; flex-shrink: 0;">
+    <img src="/images/tlos.jpeg" alt=""
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
+  </div>
+</div>
+
+<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+  <!-- Left Text Block -->
+  <div style="flex: 1; padding-right: 15px;">
+    <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Department of Computer Science, Virginia Tech</strong><br>
-      Graduate Instructor<br>
+      Adjunct Instructor<br>
       Summer 2025<br>
-      Teaching <i>Intermediate Programming in Python</i>
+      <i>Intermediate Programming in Python</i>
     </p>
   </div>
 

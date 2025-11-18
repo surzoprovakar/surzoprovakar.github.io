@@ -5,12 +5,18 @@ permalink: /background/
 author_profile: true
 ---
 
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
 <!-- LinkedIn Badge -->
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="provakar-m" data-version="v1">
 <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/provakar-m?trk=profile-badge"></a>
 </div>
 
-## Work Experience ## 
+<br>
+
+<h3>Professional Experience</h3>
 <div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
@@ -18,7 +24,7 @@ author_profile: true
       <strong>Software Innovations Lab, Virginia Tech</strong><br>
       Graduate Research Assistant<br>
       August 2021 – Present<br>
-      <i>Advisor: <a href = "https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a></i>
+      <i>Advisor &mdash; <a href = "https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a></i>
     </p>
   </div>
 
@@ -36,7 +42,7 @@ author_profile: true
       <strong>Technology-enhanced Learning and Online Strategies (TLOS), Virginia Tech</strong><br>
       Graduate Application Developer<br>
       August 2025 – Present<br>
-      <i>Advisor: <a href = "https://tlos.vt.edu/about/directory/personnel/kovach_c.html" target="_blank">Chris Kovach</a></i>
+      <i>Supervisor &mdash; <a href = "https://tlos.vt.edu/about/directory/personnel/kovach_c.html" target="_blank">Chris Kovach</a></i>
     </p>
   </div>
 
@@ -72,7 +78,7 @@ author_profile: true
       <strong>Samsung Research, Bangladesh</strong><br>
       Software Engineer<br>
       May 2019 – July 2021<br>
-      <i>Advisor: Debashis Maitra</i>
+      <i>Supervisor &mdash; Debashis Maitra</i>
     </p>
   </div>
 
@@ -84,7 +90,7 @@ author_profile: true
 </div>
 
 
-## Education ## 
+<h3>Education</h3>
 <div style="width: 620px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">

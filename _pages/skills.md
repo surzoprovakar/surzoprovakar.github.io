@@ -5,6 +5,10 @@ permalink: /skills/
 author_profile: true
 ---
 
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
 <style>
 .skill-section {
     display: flex;
@@ -17,10 +21,10 @@ author_profile: true
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    width: 60px;
+    width: 80px;
     height: 75px;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     color: #000000;
 }
 
@@ -31,7 +35,8 @@ author_profile: true
 }
 </style>
 
-## Languages ##
+<h3> Languages </h3>
+
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go">
@@ -87,7 +92,9 @@ author_profile: true
   </div>
 </div>
 
-## Databases ##
+<br>
+
+<h3>Databases</h3>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle">
@@ -107,8 +114,10 @@ author_profile: true
   </div>
 </div>
 
-## Platforms ##
-- **Operating Systems:**  
+<br>
+
+<h3>Platforms</h3>
+<h4>Operating Systems</h4>  
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux">
@@ -128,7 +137,7 @@ author_profile: true
   </div>
 </div>
 
-- **Windows Development:**  
+<h4>Windows Development</h4>  
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="/assets/uwp.jpg" alt="UWP">
@@ -140,7 +149,7 @@ author_profile: true
   </div>
 </div>
 
-- **Frameworks:**  
+<h4>Frameworks</h4>  
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django">
@@ -152,10 +161,11 @@ author_profile: true
   </div>
 </div>
 
+<br>
 
-## Technologies ##
+<h3>Technologies</h3>
 
-- **DevOps:**  
+<h4>DevOps</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
@@ -171,7 +181,7 @@ author_profile: true
   </div>
 </div>
 
-- **Cloud Services:**  
+<h4>Cloud Services</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase">
@@ -187,7 +197,7 @@ author_profile: true
   </div>
 </div>
 
-- **ML / Deep Learning:**  
+<h4>ML / Deep Learning</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter">
@@ -211,7 +221,7 @@ author_profile: true
   </div>
 </div>
 
-- **Data Science:**  
+<h4>Data Science</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">
@@ -227,7 +237,7 @@ author_profile: true
   </div>
 </div>
 
-- **Hardware:**  
+<h4>Hardware</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
@@ -239,7 +249,7 @@ author_profile: true
   </div>
 </div>
 
-- **Build & Runtime Tooling:**  
+<h4>Build & Runtime Tooling</h4>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="WebAssembly">

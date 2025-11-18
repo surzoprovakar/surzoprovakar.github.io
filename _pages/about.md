@@ -8,85 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.recent-news {
-  position: relative;
-  margin-left: 20px;
-  padding-left: 20px;
-}
-
-.recent-news li {
-  position: relative;
-  margin-bottom: 15px;
-  padding-left: 10px;
-  display: grid;
-  grid-template-columns: 130px 1fr;
-  align-items: start;
-  column-gap: 10px;
-}
-
-.recent-news li::before {
-  content: '';
-  position: absolute;
-  left: -11px;
-  top: 6px;
-  width: 10px;
-  height: 10px;
-  background-color: #4CAF50;
-  border-radius: 50%;
-}
-
-.recent-news li strong {
-  font-weight: bold;
-  display: inline-block;
-  white-space: nowrap;
-}
-
-.recent-news li span {
-  display: block;
-}
-</style>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
 
 
 <div style="text-align: justify">
-I am a final-year PhD student and Graduate Research Assistant in the <a href = "https://cs.vt.edu/" target="_blank"> Department of Computer Science</a> at <a href = "https://vt.edu/" target="_blank"> Virginia Tech</a>. Under the supervision of <a href = "https://people.cs.vt.edu/~tilevich/" target = "_blank">Dr. Eli Tilevich</a>, I conduct research in the <b>Software Innovations Lab</b>, focusing on the intersection of <b>Distributed Systems, Software Engineering, and Machine Learning (ML) Systems</b>. My research aims to enhance Software support for <b>Replicated Data Systems</b>, addressing key challenges such as <b>error handling</b>, <b>integration testing</b>, <b>cross-language interoperability</b>, and System support for <b>replicating domain-specific AI models</b>.<br><br>
+I am a final-year PhD student and Graduate Research Assistant in Computer Science at Virginia Tech, advised by <a href = "https://people.cs.vt.edu/~tilevich/" target = "_blank">Dr. Eli Tilevich</a>. My research lies at the intersection of distributed systems, software engineering, and system support for machine learning. I build practical systems that enhance the reliability, interoperability, and performance of replicated data systems and domain-specific AI models.
 
-Before joining Virginia Tech, I worked as a full-time Software Engineer at <a href = "https://research.samsung.com/srbd" target="_blank"> Samsung R&D Institute Bangladesh (SRBD)</a>. Our team developed <a href = "https://learn.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide" target="_blank">Universal Windows Platform (UWP)</a> applications, enabling functionality across Microsoft Windows devices, including PCs, tablets, smartphones, Xbox One, Microsoft HoloLens, and IoTs. Specifically, I engineered a delta-data transferable middleware for <a href = "https://www.samsung.com/us/support/owners/app/samsung-notes" target="_blank">Windows Samsung Notes</a>, optimizing synchronization latency and enabling real-time data synchronization with <a href = "https://www.samsung.com/us/support/owners/app/samsung-cloud" target="_blank">Samsung Cloud</a>.<br><br>
 
-I have completed my Bachelor of Science (B.Sc) in <a href = "https://cse.buet.ac.bd/" target="_blank">Computer Science and Engineering</a> from <a href = "https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology.</a> <br><br>
+Beyond my research, I also work as a <a href = "https://tlos.vt.edu/about/directory/personnel/mondal_p.html" target = "_blank">Graduate Application Developer</a> at Virginia Tech's Technology-enhanced Learning and Online Strategies (TLOS), where I enhance the university's Learning Management System by integrating an end-to-end AI pipeline. My work involves building RAG-based workflows and AI services using LangFlow and OpenAI, along with developing frontend features in React and Docker.
 
-I love mountaineering, hiking, cycling, reading storybooks, and playing a lot of sports, including Cricket, Tennis, Ping-pong, and Badminton.<br> <br>
+<br><br>
 
+Before joining Virginia Tech, I worked as a Software Engineer at <a href="https://research.samsung.com/srbd" target="_blank">Samsung Research Bangladesh</a>, contributing to the development of Universal Windows Platform (UWP) applications and improving real-time data synchronization for Samsung Notes. I completed my Bachelor's in Computer Science from <a href="https://www.buet.ac.bd/web/" target="_blank">Bangladesh University of Engineering and Technology</a>.
 </div>
 
-## News
+<br>
+<div>
+<h3>Recent News</h3>
 
-<ul class="recent-news">
-  <li><strong>August 2025</strong> 
-    <span>I have started working as a <b>Graduate Application Developer</b> at the <a href = "https://tlos.vt.edu/" target="_blank" rel="noopener noreferrer">Technology-enhanced Learning and Online Strategies (TLOS)</a> Department of Virginia Tech. I will work on enhancing the university’s Learning Management System (LMS) by creating and integrating a complete AI pipeline.</span>
-  </li>
-  <li><strong>May 2025</strong> 
-    <span>I will work as an <b>Adjunct Instructor</b> at the Department of Computer Science, Virginia Tech, and teach <a href = "https://static.cs.vt.edu/Undergraduate/courses/CS2064.html#:~:text=CS%202064%20(Intermediate%20Programming%20in,first%20course%20in%20the%20series." target="_blank" rel="noopener noreferrer">CS 2064: Intermediate Programming in Python</a> in Summer 2025.</span>
-  </li>
-  <li><strong>Mar 2025</strong> 
-    <span>Our paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> ER-𝜋: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</a> got accepted in <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP Middleware 2025</a>.</span>
-  </li>
-    <li><strong>Mar 2025</strong> 
-    <span>I will serve as an external program committee in <a href = "https://services.conferences.computer.org/2025/icws-2025/" target="_blank" rel="noopener noreferrer">IEEE ICWS 2025</a> and <a href = "http://www.icccn.org/" target="_blank" rel="noopener noreferrer">IEEE ICCCN 2025</a>.</span>
-  </li>
-  <li><strong>Aug 2024</strong>
-    <span>Awarded Bitshares Fellowship from Virginia Tech, Department of Computer Science for my research on Distributed consensus and reliability.</span>
-  </li>
-  <li><strong>Dec 2023</strong>
-    <span>Received my Master of Science (M.S.) along the way from Virginia Tech, Department of Computer Science.</span>
-  </li>
-  <li><strong>Dec 2023</strong>
-    <span>Presented our paper <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a>. <a href = "https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer">[Slide]</a></span>
-  </li>
-  <li><strong>Oct 2023</strong>
-    <span>Our paper <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a> got accepted in <a href = "https://parsec2.unicampania.it/cloudcom2023/" target="_blank" rel="noopener noreferrer">IEEE CloudCom 2023</a>.</span>
-  </li>
-  <li><strong>Aug 2023</strong>
-    <span>I will serve as an external program committee in <a href = "https://2023.splashcon.org/track/splash-2023-SPLASH-E?plenary=Hide%20plenary%20sessions" target="_blank" rel="noopener noreferrer">ACM SPLASH-E 2023</a>.</span>
-  </li>
+<ul>
+
+<li><strong><span style="color:Maroon"> [Nov 2025] </span></strong> - My paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25_Thorough_Testing.pdf" target="_blank" rel="noopener noreferrer"> Toward Thorough and Practical Integration Testing of Replicated Data Systems</a> got accepted at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">Middleware 2025 Doctoral Symposium</a>. </li>
+
+<li><strong><span style="color:Maroon"> [Nov 2025] </span></strong> - Our poster <a href = "https://people.cs.vt.edu/provakar/Middleware_25_RDL_Integration.pdf" target="_blank" rel="noopener noreferrer"> Understanding Tradeoffs of Replicated Data Library Integration Strategies in Multilingual Environments</a> got accepted at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">Middleware 2025</a>. </li>
+
+<li><strong><span style="color:Maroon"> [Aug 2025] </span></strong> - Started working as a <b>Graduate Application Developer</b> at Virginia Tech's IT Department, <a href = "https://tlos.vt.edu/" target="_blank" rel="noopener noreferrer">Technology-enhanced Learning and Online Strategies (TLOS)</a>. </li>
+
+<li><strong><span style="color:Maroon"> [May 2025] </span></strong> - Started working as an <b>Instructor</b> at Virginia Tech's Computer Science Department and will teach <a href = "https://static.cs.vt.edu/Undergraduate/courses/CS2064.html#:~:text=CS%202064%20(Intermediate%20Programming%20in,first%20course%20in%20the%20series." target="_blank" rel="noopener noreferrer">CS 2064: Intermediate Programming in Python</a> in Summer 2025. </li>
+
+<li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Our paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> ER-𝜋: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</a> got accepted at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP Middleware 2025</a>. </li>
+
+<li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Served in the external program committee of <a href = "https://services.conferences.computer.org/2025/icws-2025/" target="_blank" rel="noopener noreferrer">IEEE ICWS 2025</a> and <a href = "http://www.icccn.org/" target="_blank" rel="noopener noreferrer">IEEE ICCCN 2025</a>. </li>
+
+<li><strong><span style="color:Maroon"> [Aug 2024] </span></strong> - Awarded Bitshares Fellowship from Virginia Tech, Department of Computer Science, for research excellence in distributed consensus and reliability. </li>
+
+<li><strong><span style="color:Maroon"> [Dec 2023] </span></strong> - Received my Master of Science (M.S.) along the way from Virginia Tech, Department of Computer Science. </li>
+
+<li><strong><span style="color:Maroon"> [Dec 2023] </span></strong> - Presented the CloudCom 2023 paper, <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a>. <a href = "https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer">[Slide]</a> </li>
+
+<li><strong><span style="color:Maroon"> [Oct 2023] </span></strong> - Our paper <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a> got accepted at <a href = "https://parsec2.unicampania.it/cloudcom2023/" target="_blank" rel="noopener noreferrer">IEEE CloudCom 2023</a>. </li>
+  
+<li><strong><span style="color:Maroon"> [Aug 2023] </span></strong> - Served in the external program committee of <a href = "https://2023.splashcon.org/track/splash-2023-SPLASH-E?plenary=Hide%20plenary%20sessions" target="_blank" rel="noopener noreferrer">ACM SPLASH-E 2023</a>. </li>
+
 </ul>
+
+</div>

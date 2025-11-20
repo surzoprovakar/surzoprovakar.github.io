@@ -79,7 +79,7 @@ author_profile: true
 
   <ul>
     <li>Working on system support for replicating domain-specific AI models, aiming to improve user experience and reduce model synchronization latency by prioritizing application utility. <br> 
-    <code>Python, TensorFlow, PyTorch, Smalle Language Model (SLM)</code></li>
+    <code>Python, TensorFlow, PyTorch, Small Language Model (SLM)</code></li>
     <li>Introduced effective integration testing for replicated data libraries (<a href="https://orbitdb.org/" target="_blank" rel="noopener noreferrer">OrbitDB</a>, <a href="https://osalvador.github.io/ReplicaDB/index.html" target="_blank" rel="noopener noreferrer">ReplicaDB</a>, <a href="https://crdt.tech/" target="_blank" rel="noopener noreferrer">CRDT</a>); increased test coverage by 32% by optimizing interleaving replay of app-library interaction. <br>
     <code>Go, Java, JS, Python, C++</code></li>
     <li>Created comprehensive error handling for replicated data libraries; improved system reliability by 25% under erroneous updates via distributed error tracing and non-intrusive integration. <br>
@@ -95,7 +95,7 @@ author_profile: true
   <ul>
     <li>Enabled GPGPU (General Purpose Graphics Processing Units) Frameworks for HSA (Heterogeneous System Architecture) enabled APUs without Discrete GPU support.</li>
     <li>Devised a toolkit for AMD HSA, accelerated processing units to leverage GPGPU libraries of high-level languages, such as APARAPI (A PARallel API) and TornadoVM.</li>
-    <li>Translated the generate OpenCL files to HSA specific IR (Intermediate Representation) called HSAIL, which we then compiled into runnable BRIG format.</li>
+    <li>Translated the generated OpenCL files to HSA-specific IR (Intermediate Representation) called HSAIL, which we then compiled into runnable BRIG format.</li>
   </ul>
 </div>
 

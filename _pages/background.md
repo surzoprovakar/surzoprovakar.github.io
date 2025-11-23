@@ -23,7 +23,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Software Innovations Lab, Virginia Tech</strong><br>
       Graduate Research Assistant<br>
-      August 2021 – Present<br>
+      August 2021 &ndash; Present<br>
       <i>Advisor &mdash; <a href = "https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a></i>
     </p>
   </div>
@@ -41,7 +41,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Technology-enhanced Learning and Online Strategies (TLOS), Virginia Tech</strong><br>
       Graduate Application Developer<br>
-      August 2025 – Present<br>
+      August 2025 &ndash; Present<br>
       <i>Supervisor &mdash; <a href = "https://tlos.vt.edu/about/directory/personnel/kovach_c.html" target="_blank">Chris Kovach</a></i>
     </p>
   </div>
@@ -77,8 +77,8 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Samsung Research, Bangladesh</strong><br>
       Software Engineer<br>
-      May 2019 – July 2021<br>
-      <i>Supervisor &mdash; Debashis Maitra</i>
+      May 2019 &ndash; July 2021<br>
+      <i>Supervisor &mdash; <a href = "https://www.linkedin.com/in/debashis-maitra-83a7917/?originalSubdomain=bd" target="_blank">Debashis Maitra</a></i>
     </p>
   </div>
 
@@ -97,7 +97,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Virginia Tech</strong><br>
       Ph.D in Computer Science<br>
-      August 2021 – May 2026 (Expected)<br>
+      August 2021 &ndash; May 2026 (Expected)<br>
     </p>
   </div>
 
@@ -114,7 +114,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Virginia Tech</strong><br>
       M.Sc. in Computer Science<br>
-      August 2021 – December 2023<br>
+      August 2021 &ndash; December 2023<br>
     </p>
   </div>
 
@@ -131,7 +131,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Bangladesh University of Engineering and Technology</strong><br>
       B.Sc. in Computer Science<br>
-      February 2015 – April 2019<br>
+      February 2015 &ndash; April 2019<br>
     </p>
   </div>
 
@@ -148,7 +148,7 @@ author_profile: true
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
       <strong>Cantonment College Jashore</strong><br>
       H.Sc. in Science<br>
-      July 2012 – May 2014<br>
+      July 2012 &ndash; May 2014<br>
     </p>
   </div>
 

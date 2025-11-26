@@ -17,7 +17,7 @@ author_profile: true
 <br>
 
 <h3>Professional Experience</h3>
-<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -35,7 +35,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -53,7 +53,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -71,7 +71,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width: 600px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -91,7 +91,7 @@ author_profile: true
 
 
 <h3>Education</h3>
-<div style="width: 620px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -104,11 +104,11 @@ author_profile: true
   <!-- Right Image Block -->
   <div style="width: 160px; height: 100px; flex-shrink: 0;">
     <img src="/images/Virginia_Tech_logo.svg" alt=""
-         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </div>
 </div>
 
-<div style="width: 620px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -121,11 +121,11 @@ author_profile: true
   <!-- Right Image Block -->
   <div style="width: 160px; height: 100px; flex-shrink: 0;">
     <img src="/images/Virginia_Tech_logo.svg" alt=""
-         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </div>
 </div>
 
-<div style="width: 620px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -138,11 +138,11 @@ author_profile: true
   <!-- Right Image Block -->
   <div style="width: 100px; height: 100px; flex-shrink: 0;">
     <img src="/images/BUET_LOGO.svg.png" alt=""
-         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </div>
 </div>
 
-<div style="width: 620px; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+<div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
@@ -155,6 +155,6 @@ author_profile: true
   <!-- Right Image Block -->
   <div style="width: 100px; height: 100px; flex-shrink: 0;">
     <img src="/images/ccj.png" alt=""
-         style="width: 100%; height: 100%; object-fit: fill; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </div>
 </div>

@@ -237,3 +237,10 @@
     }
   }
 }
+
+// Remove the thin Underline after hovering
+.sidebar a,
+.sidebar a:hover,
+.sidebar a:focus {
+  text-decoration: none !important;
+}

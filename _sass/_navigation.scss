@@ -430,3 +430,10 @@
     }
   }
 }
+
+// Remove the thin Underline after hovering
+.masthead .greedy-nav a,
+.masthead .greedy-nav a:hover,
+.masthead .greedy-nav a:focus {
+  text-decoration: none !important;
+}

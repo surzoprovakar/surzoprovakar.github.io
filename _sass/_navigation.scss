@@ -186,6 +186,7 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+      transform: scale(1.1);
     }
   }
 
@@ -225,6 +226,7 @@
 
     a {
       position: relative;
+      font-variant: small-caps;
 
       &:before {
         content: "";
@@ -436,4 +438,5 @@
 .masthead .greedy-nav a:hover,
 .masthead .greedy-nav a:focus {
   text-decoration: none !important;
+  color: $xing-color;
 }

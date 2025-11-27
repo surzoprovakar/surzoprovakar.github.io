@@ -11,6 +11,9 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  border-bottom: 1px $primary-color;
+  box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+
   &__inner-wrap {
     @include container;
     @include clearfix;

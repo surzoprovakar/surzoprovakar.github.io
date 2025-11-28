@@ -75,7 +75,7 @@ author_profile: true
     <p>A middleware system that provides integration testing support to verify the interactions between replicated data libraries and distributed application logic via exhaustive interleaving replay, reducing the problem space with <ins>four</ins> novel pruning algorithms, replicating <ins>12</ins> known bugs, and uncovering <ins>5</ins> common misconceptions.</p>
 </blockquote>
 <a href="https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://github.com/surzoprovakar/Integration-Testing" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
+<a href="https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
 
 <a class="abstract btn btn-sm" role="button" onclick="toggleAbs(this)">
   <i class="fa fa-angle-down" aria-hidden="true"></i> ABSTRACT
@@ -97,6 +97,7 @@ author_profile: true
     <p>A comprehensive integration testing framework for replicated data systems, increasing testing efficacy by <ins>3.58X</ins> through pruning and prioritizing distributed event interleavings.</p>
 </blockquote>
 <a href="https://people.cs.vt.edu/provakar/Middleware_25_Thorough_Testing.pdf" target="_blank" rel="noopener noreferrer" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/surzoprovakar/Integration-Testing" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
 
 <a class="abstract btn btn-sm" role="button" onclick="toggleAbs(this)">
   <i class="fa fa-angle-down" aria-hidden="true"></i> ABSTRACT

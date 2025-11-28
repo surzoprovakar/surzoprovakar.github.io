@@ -25,7 +25,7 @@ author_profile: true
       <b>Stack:</b><code>Go, Java, JavaScript, Datalog</code>
     </p>
     <a href="https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Paper</a>
-    <a href="https://github.com/surzoprovakar/Integration-Testing" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
+    <a href="https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Code</a>
   </div>
 
    <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">

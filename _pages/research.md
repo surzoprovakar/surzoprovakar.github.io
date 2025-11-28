@@ -63,7 +63,7 @@ author_profile: true
 </script>
 
 <div>
-<h3>Publications</h3>
+<h2><span style="font-variant:small-caps;">Publications</span></h2>
 
 <b>ER&ndash;&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</b><br>
 <img src="/images/artifact_available_v1.1.png" alt="Artifacts Available Badge" style="height:10%; width:10%;object-fit: contain;"> <img src="/images/artifact_functional_v1.1.png" alt="Artifacts Functional Badge" style="height:10%; width:10%;object-fit: contain;">
@@ -157,7 +157,7 @@ author_profile: true
 </div>
 
 <div>
-<h3>Research Experience</h3>
+<h2><span style="font-variant:small-caps;">Research Experience</span></h2>
 </div>
 
 <div style="text-align: justify; margin-bottom: 1rem;">

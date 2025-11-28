@@ -16,7 +16,7 @@ author_profile: true
 
 <br>
 
-<h3>Professional Experience</h3>
+<h2><span style="font-variant:small-caps;">Professional Experience</span></h2>
 <div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">
@@ -90,7 +90,7 @@ author_profile: true
 </div>
 
 
-<h3>Education</h3>
+<h2><span style="font-variant:small-caps;">Education</span></h2>
 <div style="width: 100%; padding: 0; display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
   <!-- Left Text Block -->
   <div style="flex: 1; padding-right: 15px;">

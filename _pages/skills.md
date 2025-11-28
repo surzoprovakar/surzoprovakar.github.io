@@ -35,9 +35,13 @@ author_profile: true
 }
 </style>
 
-<h3> Languages </h3>
+<h3><span style="font-variant:small-caps;">Languages</span></h3>
 
 <div class="skill-section">
+  <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+    <div>Python</div>
+  </div>
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go">
     <div>Go</div>
@@ -63,10 +67,6 @@ author_profile: true
     <div>C#</div>
   </div>
   <div class="skill-icon-container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <div>Python</div>
-  </div>
-  <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala">
     <div>Scala</div>
   </div>
@@ -90,11 +90,15 @@ author_profile: true
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
     <div>CSS</div>
   </div>
+    <div class="skill-icon-container">
+    <img src="/assets/protobuf.svg" alt="Protobuf">
+    <div>Protobuf</div>
+  </div>
 </div>
 
 <br>
 
-<h3>Databases</h3>
+<h3><span style="font-variant:small-caps;">Databases</span></h3>
 <div class="skill-section">
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle">
@@ -116,7 +120,7 @@ author_profile: true
 
 <br>
 
-<h3>Platforms</h3>
+<h3><span style="font-variant:small-caps;">Platforms</span></h3>
 <h4>Operating Systems</h4>  
 <div class="skill-section">
   <div class="skill-icon-container">
@@ -134,6 +138,10 @@ author_profile: true
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android">
     <div>Android</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" alt="AArch64">
+    <div>AArch64</div>
   </div>
 </div>
 
@@ -156,14 +164,38 @@ author_profile: true
     <div>Django</div>
   </div>
   <div class="skill-icon-container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
     <div>React</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+    <div>Node.js</div>
+  </div>
+   <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js">
+    <div>Next.js</div>
+  </div>
+</div>
+
+<h4>AI Workflow</h4>  
+<div class="skill-section">
+  <div class="skill-icon-container">
+    <img src="/assets/langflow.svg" alt="Langflow">
+    <div>Langflow</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="/assets/openai.svg" alt="OpenAI">
+    <div>OpenAI</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="/assets/flowise.svg" alt="Flowise AI">
+    <div>Flowise AI</div>
   </div>
 </div>
 
 <br>
 
-<h3>Technologies</h3>
+<h3><span style="font-variant:small-caps;">Technologies</span></h3>
 
 <h4>DevOps</h4>
 <div class="skill-section">
@@ -194,6 +226,14 @@ author_profile: true
   <div class="skill-icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure">
     <div>Azure</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
+    <div>AWS</div>
+  </div>
+  <div class="skill-icon-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="Vercel">
+    <div>Vercel</div>
   </div>
 </div>
 

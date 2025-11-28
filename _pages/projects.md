@@ -9,7 +9,7 @@ author_profile: true
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
-<h3>Research Projects</h3>
+<h2><span style="font-variant:small-caps;">Research Projects</span></h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
@@ -105,7 +105,7 @@ author_profile: true
 
 <br>
 
-<h3>Samsung Projects</h3>
+<h2><span style="font-variant:small-caps;">Samsung Projects</span></h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
@@ -141,7 +141,7 @@ author_profile: true
 
 <br>
 
-<h3> Selective Academic Projects</h3>
+<h2><span style="font-variant:small-caps;">Selective Academic Projects</span></h2>
 
 <h5>Online Flea Market</h5>
 Engineered an e-commerce software application for buying and selling second-hand products, creating a user-friendly online marketplace (<code>Python, Django, JavaScript, and CSS</code>). <a href="https://github.com/surzoprovakar/Online-Flea-Mart" target="_blank" rel="noopener noreferrer">

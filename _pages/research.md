@@ -138,11 +138,11 @@ author_profile: true
 <br>Napoli, Italy, December 4&ndash;6, 2023
 <br>
 <blockquote>
-    <p>An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries improving undo efficiency by <ins>16%</ins> without manual modification of the library code.</p>
+    <p>An automatic approach to generate and actuate undo functionality for Conflict-free Replicated Data Type (CRDT) libraries, improving undo efficiency by <ins>16%</ins> without manual modification of the library code.</p>
 </blockquote>
 <a href="https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer" class="btn-sm btn-warning text-decoration-none">Slide Deck</a>
 <a href="https://github.com/surzoprovakar/Undo_Script" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
+<a href="https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer" class="btn-sm btn-warning text-decoration-none">Slide Deck</a>
 
 <a class="abstract btn btn-sm" role="button" onclick="toggleAbs(this)">
   <i class="fa fa-angle-down" aria-hidden="true"></i> ABSTRACT
@@ -150,6 +150,31 @@ author_profile: true
 
 <div class="hidden abstract-block">
   <p> In a distributed replicated data system, Conflict-free Replicated Data Types (CRDTs) keep data replicas consistent on different nodes, while providing intuitive programming abstractions for accessing and modifying the replicas. Due to user errors, program bugs, or hardware malfunctions, a CRDT can be updated incorrectly, so the effect of the executed CRDT update operations needs to be undone. However, because CRDT libraries rarely include the undo capability, adding it requires modifying source code by hand, a task that is hard to accomplish in a modular and reusable fashion. As a result, programmers end up adding this advanced functionality in an ad-hoc fashion, with the resulting code being hard to understand, maintain, and reuse. To address this problem, this paper presents AUTO-UNDO, an automatic approach that generates and actuates undo functionality for existing CRDT libraries, based on simple configurations and without modifying the library code by hand. The configurations specify which CRDT operations undo each other and the conditions that trigger the execution of undo procedures. Based on the configuration, AUTO-UNDO generates and actuates a sequence of update operations that undo the specified updates on a given replica. We have implemented and evaluated AUTO-UNDO in JavaScript, a popular CRDT language, demonstrating our approach's effectiveness, flexibility, and efficiency. Our experiences show that AUTO-UNDO effectively provides the undo capability for CRDT-based applications, thus streamlining the complexity of adding features to distributed programming frameworks. </p>
+</div>
+<br>
+<br>
+
+<!-- --------------------- -->
+<b>An Empirical Study of Cross-Language Interoperability in Replicated Data Systems</b>
+<br><u>Provakar Mondal</u> and Eli Tilevich
+<br><img src="/assets/arxiv-logo.svg" alt="arXiv" style="height:7%; width:7%;object-fit: contain;"/> 2025
+<br>
+<blockquote>
+    <p>A multilingual replicated data library&mdash;HERMES&mdash;that leverages a common data format to coordinate replicas across compiled, interpreted, and managed languages, validated through an empirical study showing its software quality, extensibility, and performance advantages over FFI-based integration.</p>
+</blockquote>
+<a href="https://arxiv.org/pdf/2511.22010" target="_blank" rel="noopener noreferrer" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/surzoprovakar/Multilingual-RDL" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
+
+<a class="abstract btn btn-sm" role="button" onclick="toggleAbs(this)">
+  <i class="fa fa-angle-down" aria-hidden="true"></i> ABSTRACT
+</a>
+
+<div class="hidden abstract-block">
+  <p> <b>BACKGROUND:</b> Modern distributed systems replicate data across multiple execution sites. Business requirements and resource constraints often necessitate mixing different languages across replica sites. To facilitate the management of replicated data, modern software engineering practices integrate special-purpose replicated data libraries (RDLs) that provide read-write access to the data and ensure its synchronization. Irrespective of the implementation languages, an RDL typically uses a single language or offers bindings to a designated one. Hence, integrating existing RDLs in multilingual environments requires special-purpose code, whose software quality and performance characteristics are poorly understood.<br>
+  <b>AIMS:</b> We aim to bridge this knowledge gap to understand the software quality and performance characteristics of RDL integration in multilingual environments.<br>
+  <b>METHOD:</b> We conduct an empirical study of two key strategies for integrating RDLs in the context of multilingual replicated data systems: foreign-function interface (FFI) and a common data format (CDF); we measure and compare their respective software metrics and performance to understand their suitability for the task at hand.<br>
+  <b>RESULTS:</b> Our results reveal that adopting CDF for crosslanguage interaction offers software quality, latency, memory consumption, and throughput advantages. We further validate our findings by (1) creating a CDF-based RDL for mixing compiled, interpreted, and managed languages; and (2) enhancing our RDL with plug-in extensibility that enables adding functionality in a single language while maintaining integration within a multilingual environment.<br>
+  <b>CONCLUSIONS:</b> With modern distributed systems utilizing multiple languages, our findings provide novel insights for designing RDLs in multilingual replicated data systems. </p>
 </div>
 <br>
 <br>

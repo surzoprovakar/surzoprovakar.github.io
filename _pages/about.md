@@ -16,7 +16,6 @@ redirect_from:
 <div style="text-align: justify">
 I am a final-year PhD student and Graduate Research Assistant in Computer Science at Virginia Tech, advised by <a href = "https://people.cs.vt.edu/~tilevich/" target = "_blank">Dr. Eli Tilevich</a>. My research lies at the intersection of distributed systems, software engineering, and system support for machine learning. I build practical systems that enhance the reliability, interoperability, and performance of replicated data systems and domain-specific AI models.
 
-
 Beyond my research, I also work as a <a href = "https://tlos.vt.edu/about/directory/personnel/mondal_p.html" target = "_blank">Graduate Application Developer</a> at Virginia Tech's Technology-enhanced Learning and Online Strategies (TLOS), where I enhance the university's Learning Management System by integrating an end-to-end AI pipeline. My work involves building RAG-based workflows and AI services using LangFlow and OpenAI, along with developing frontend features in React and Docker.
 
 <br><br>
@@ -29,6 +28,8 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 <h3>Recent News</h3>
 
 <ul>
+
+<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Passed my PhD Preliminary Exam and officially a PhD candidate now.</li>
 
 <li><strong><span style="color:Maroon"> [Nov 2025] </span></strong> - Our <a href="https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact" target="_blank" rel="noopener noreferrer">ER-&pi; Artifact</a> received both <b>Artifacts Available</b> and <b>Artifacts Evaluated-Functional</b> badges at <a href = "https://middleware-conf.github.io/2025/program/accepted-paper-list/" target="_blank" rel="noopener noreferrer">Middleware 2025's Artifact Evaluation</a>. <img src="/images/artifact_available_v1.1.png" alt="Artifacts Available Badge" style="height:5%; width:5%;object-fit: contain;"> <img src="/images/artifact_functional_v1.1.png" alt="Artifacts Functional Badge" style="height:5%; width:5%;object-fit: contain;"></li>
 

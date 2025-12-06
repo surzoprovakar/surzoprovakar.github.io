@@ -68,7 +68,7 @@ author_profile: true
 <b>ER&ndash;&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</b><br>
 <img src="/images/artifact_available_v1.1.png" alt="Artifacts Available Badge" style="height:10%; width:10%;object-fit: contain;"> <img src="/images/artifact_functional_v1.1.png" alt="Artifacts Functional Badge" style="height:10%; width:10%;object-fit: contain;">
 <br><u>Provakar Mondal</u> and Eli Tilevich
-<br>26th ACM Middleware Conference &mdash; <b>Middleware 2025</b>
+<br>26th ACM/IFIP/USENIX Middleware Conference &mdash; <a href="https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer"><b>Middleware 2025</b></a>
 <br>Nashville, TN, USA, December 15&ndash;19, 2025
 <br>
 <blockquote>
@@ -90,7 +90,7 @@ author_profile: true
 <!-- --------------------- -->
 <b>Toward Thorough and Practical Integration Testing of Replicated Data Systems</b>
 <br><u>Provakar Mondal</u>
-<br>26th ACM Middleware Doctoral Symposium &mdash; <b>Middleware 2025</b>
+<br>26th ACM/IFIP/USENIX Middleware Doctoral Symposium &mdash; <a href="https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer"><b>Middleware 2025</b></a>
 <br>Nashville, TN, USA, December 15&ndash;19, 2025
 <br>
 <blockquote>
@@ -112,7 +112,7 @@ author_profile: true
 <!-- --------------------- -->
 <b>Understanding Tradeoffs of Replicated Data Library Integration Strategies in Multilingual Environments</b>
 <br><u>Provakar Mondal</u> and Eli Tilevich
-<br>26th ACM Middleware Demos and Posters Symposium &mdash; <b>Middleware 2025</b>
+<br>26th ACM/IFIP/USENIX Middleware Demos and Posters Symposium &mdash; <a href="https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer"><b>Middleware 2025</b></a>
 <br>Nashville, TN, USA, December 15&ndash;19, 2025
 <br>
 <blockquote>
@@ -134,7 +134,7 @@ author_profile: true
 <!-- --------------------- -->
 <b>Undoing CRDT Operations Automatically</b>
 <br><u>Provakar Mondal</u> and Eli Tilevich
-<br>14th IEEE International Conference on Cloud Computing Technology and Science &mdash; <b>CloudCom 2023</b>
+<br>14th IEEE International Conference on Cloud Computing Technology and Science &mdash; <a href="https://parsec2.unicampania.it/cloudcom2023/" target="_blank" rel="noopener noreferrer"><b>CloudCom 2023</b></a>
 <br>Napoli, Italy, December 4&ndash;6, 2023
 <br>
 <blockquote>

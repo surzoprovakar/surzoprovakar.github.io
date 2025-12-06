@@ -42,7 +42,7 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 
 <li><strong><span style="color:Maroon"> [May 2025] </span></strong> - Started working as an <b>Instructor</b> at Virginia Tech's Computer Science Department and will teach <a href = "https://static.cs.vt.edu/Undergraduate/courses/CS2064.html#:~:text=CS%202064%20(Intermediate%20Programming%20in,first%20course%20in%20the%20series." target="_blank" rel="noopener noreferrer">CS 2064: Intermediate Programming in Python</a> in Summer 2025. </li>
 
-<li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Our paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> ER-&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</a> got accepted at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP Middleware 2025</a>. </li>
+<li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Our paper <a href = "https://people.cs.vt.edu/provakar/Middleware_25__ER_%f0%9d%9c%8b_.pdf" target="_blank" rel="noopener noreferrer"> ER-&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration</a> got accepted at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP/USENIX Middleware 2025</a>. </li>
 
 <li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Served in the external program committee of <a href = "https://services.conferences.computer.org/2025/icws-2025/" target="_blank" rel="noopener noreferrer">IEEE ICWS 2025</a> and <a href = "http://www.icccn.org/" target="_blank" rel="noopener noreferrer">IEEE ICCCN 2025</a>. </li>
 

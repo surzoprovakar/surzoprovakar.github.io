@@ -48,9 +48,9 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 
 <li><strong><span style="color:Maroon"> [Mar 2025] </span></strong> - Served in the external program committee of <a href = "https://services.conferences.computer.org/2025/icws-2025/" target="_blank" rel="noopener noreferrer">IEEE ICWS 2025</a> and <a href = "http://www.icccn.org/" target="_blank" rel="noopener noreferrer">IEEE ICCCN 2025</a>. </li>
 
-<li><strong><span style="color:Maroon"> [Aug 2024] </span></strong> - Awarded Bitshares Fellowship from Virginia Tech, Department of Computer Science, for research excellence in distributed consensus and reliability. </li>
+<li><strong><span style="color:Maroon"> [Aug 2024] </span></strong> - Awarded the <b>Bitshares Fellowship</b> from Virginia Tech's Department of Computer Science, for research excellence in distributed consensus and reliability. &#127942;</li>
 
-<li><strong><span style="color:Maroon"> [Dec 2023] </span></strong> - Received my Master of Science (M.S.) along the way from Virginia Tech, Department of Computer Science. </li>
+<li><strong><span style="color:Maroon"> [Dec 2023] </span></strong> - Received my <mark>Master of Science (MSc)</mark> along the way from Virginia Tech, Department of Computer Science. </li>
 
 <li><strong><span style="color:Maroon"> [Dec 2023] </span></strong> - Presented the CloudCom 2023 paper, <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a>. <a href = "https://people.cs.vt.edu/provakar/Auto_Undo.pdf" target="_blank" rel="noopener noreferrer">[Slide]</a> </li>
 

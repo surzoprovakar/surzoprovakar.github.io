@@ -29,6 +29,8 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 
 <ul>
 
+<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Awarded the <ins>National Science Foundation (NSF)</ins> grant to attend the <b>Middleware 2025 Conference</b>. &#127942;</li>
+
 <li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Passed my PhD Preliminary Exam and officially a PhD candidate now.</li>
 
 <li><strong><span style="color:Maroon"> [Nov 2025] </span></strong> - Our <a href="https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact" target="_blank" rel="noopener noreferrer">ER-&pi; Artifact</a> received both <b>Artifacts Available</b> and <b>Artifacts Evaluated-Functional</b> badges at <a href = "https://middleware-conf.github.io/2025/program/accepted-paper-list/" target="_blank" rel="noopener noreferrer">Middleware 2025's Artifact Evaluation</a>. <img src="/images/artifact_available_v1.1.png" alt="Artifacts Available Badge" style="height:5%; width:5%;object-fit: contain;"> <img src="/images/artifact_functional_v1.1.png" alt="Artifacts Functional Badge" style="height:5%; width:5%;object-fit: contain;"></li>

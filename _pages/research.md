@@ -182,7 +182,7 @@ author_profile: true
 <!-- --------------------- -->
 <b>Cross-Platform Integration and Extension of Replicated Data Libraries in Distributed Systems</b>
 <br><u>Provakar Mondal</u> and Eli Tilevich
-<br><img src="/assets/ssrn_logo.svg" alt="arXiv" style="height:5%; width:5%;object-fit: contain;"/> 2025
+<br><img src="/assets/SSRN_Logo.svg" alt="arXiv" style="height:4%; width:5%;object-fit: contain;"/> 2025
 <br>
 <blockquote>
     <p>A software architecture designed to simplify cross-platform interoperability and plug-in extensibility for replicated data management, offering significant performance advantages over classical Foreign Function Interfaces (FFIs)-based approaches.</p>

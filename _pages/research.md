@@ -179,6 +179,27 @@ author_profile: true
 <br>
 <br>
 
+<!-- --------------------- -->
+<b>Cross-Platform Integration and Extension of Replicated Data Libraries in Distributed Systems</b>
+<br><u>Provakar Mondal</u> and Eli Tilevich
+<br><img src="/assets/ssrn_logo.svg" alt="arXiv" style="height:5%; width:5%;object-fit: contain;"/> 2025
+<br>
+<blockquote>
+    <p>A software architecture designed to simplify cross-platform interoperability and plug-in extensibility for replicated data management, offering significant performance advantages over classical Foreign Function Interfaces (FFIs)-based approaches.</p>
+</blockquote>
+<a href="https://download.ssrn.com/jpdc/62e4c6d5-3c96-4266-a4b6-4553e6f86d93-meca.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCVSe4EHYSCrKqO1HKtA%2FX7LAGVsz%2FnY%2Bh207WboWPH0wIhAOxvPzVXoTZl7Kitu66BcyzNPxU%2Bq6x%2FVV4rWYAnp3ypKsUFCJr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMzA4NDc1MzAxMjU3IgwfqJZ7BjmEZsh6K9kqmQU%2Bi5b0crYCMo5Zz3krYDBueChHP%2FxTFKXEtX1OYRfrIVDXto7TsM9FFuXqAeA4ALUh7mE9tR2zW9vKaaA0c6SJBAIyd37q3q%2F5MdlM2XA%2B%2BXx7fQmS%2FrKmvcWCvPH%2BoMb7NHe0weovV9wLtgBy70bB5xRNJenq4hfN5S6%2BGdE7fo0hhTg0bP5LroIwndsKoV77Nv98tjpn6lko7IY05K2dbFi7qGOyMguPAcs66l6O8JUJB%2BaFF9%2F21a%2F5Nvgiqs23FoCSrgCVNCw0nrirNLHswd%2BNaxg%2B4Ok1k2QX9A9lpG8EwTpnrwPq0BK8faz0TRj0T0R9%2BknLIVe4aSrYUrHRjes8dqsBoLIzjNpsoUMZukkvnTkQXeXUnEjIEn4rB6S7g5FKGobLmWW2fdfAQxxey6tEU8HSGveinGycBrW1CVeKwM%2B0DzH6EW18gXnd0tj5%2BLhTARAd6%2BjsCtdwDvI1HPz8Dv8sO84BZ%2FwFNaKKViKwJrNQiXY%2BgH3zjxNxL1x2mgQPWg1ZcQ4GSaRQT2MI0nyFHVkvL1kNbFPnqGujx67Hv6qGUfpy7JLwV%2FXYMCbJoC%2B%2F35rrDQ1TPfFNHC2MEqLCHTSCad98ASOSk49BJ4SAmwQDwpKCrRPgBX3GVZNpLbI8zIwX6hcnGMyE7DyTNIxNhOWJYsrtzoQJ%2B%2BcH5QG5bpIHsVJgSj4zJQ1ML9oH34X6hZVk57l3M2bQnymdHJH9roUmjgG%2BCVp3ucJC5Y4bwtQ4uVQPd7JsUuzkqzxfIVzeCDO9XNF1VIt6CA2AcKmz%2Bj%2FO%2FlpakZzkI5pACCZWY8utM2Nc1YGcykSPZyDKCaaqC0YKZd0oQjQPv0WX44Scz%2BHgwom%2FYqeCgYSOZqiYpoiiczTHujDcw9jJBjqwAWuysn8uVqAes0DJXeZ50oJOIVA9pFTX4nhQTUfyz0qg9QsffXkP0QHZD6u8PogzQYwZLSKjQUy%2BINuZuD2KLQa8PcPCiZZFwwdCK9gtr%2FtZRqBxLV%2FbdSQtUk5kGZNCrXHVjOEAVzqHB3unaXJePS%2FXYA8N018JXMdfsEMZCywndb7zlrTm7MkBCaFJv7Zwp%2BpstrCMjgeddsI1vVLYFW3KaNmkcRm1OMZwYgDu51TN&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251208T020111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWEQCAZYGZC%2F20251208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=38baeba2f4e759c764ffae203959a92b3b51af8b694953af141d495103e03924&abstractId=5868032" target="_blank" rel="noopener noreferrer" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/surzoprovakar/Multilingual-RDL" target="_blank" rel="noopener noreferrer" class="btn-sm btn-info text-decoration-none">Code and Dataset</a>
+
+<a class="abstract btn btn-sm" role="button" onclick="toggleAbs(this)">
+  <i class="fa fa-angle-down" aria-hidden="true"></i> ABSTRACT
+</a>
+
+<div class="hidden abstract-block">
+  <p>Modern distributed systems replicate data across multiple execution sites to achieve high availability, low latency and resilience against a single point of failure. These systems span heterogeneous platforms, ranging from native binaries to managed runtimes, thus complicating how replicated data libraries (RDLs) are integrated and extended across diverse execution environments. Contemporary RDLs typically presume a single dominant platform or expose limited interoperability through foreign function interfaces (FFIs), making cross-platform integration cumbersome. Moreover extending an RDL with new capabilities often requires deep coupling to a specific runtime or toolchain, hindering its reuse across varied platforms. To address these challenges, we present BabelRDL, a software architecture designed to simplify cross-platform interoperability and plug-in extensibility for replicated data management. BabelRDL establishes a common data format (CDF) that enables seamless interaction between components running on compiled, interpreted, and managed execution environments. Its extensible plug-in model allows developers to introduce new functionality within a single language while preserving compatibility across others, reducing integration overhead and architectural fragmentation. We compare BabelRDLwith FFI-based RDL integration, measuring performance and software quality characteristics. BabelRDL delivers up to 3.5× lower latency and 2.6×reduced memory usage relative to FFI-based approaches, while also improving throughput and software quality metrics. As modern distributed systems increasingly depend on seamless interaction between diverse platforms, our work provides new insights into building maintainable high-quality software architectures for cross-platform replicated data systems. </p>
+</div>
+<br>
+<br>
+
 </div>
 
 <div>

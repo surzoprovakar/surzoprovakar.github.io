@@ -70,7 +70,7 @@ author_profile: true
 
 /* PDF */
 .artifact-pdf i {
-  color: #28a745; 
+  color: #B80000; 
 }
 
 /* Code (GitHub) */
@@ -80,7 +80,7 @@ author_profile: true
 
 /* Slides */
 .artifact-slides i {
-  color: #800000; 
+  color: #D04423; 
 }
 
 /* Poster */

@@ -29,7 +29,7 @@ author_profile: true
   </div>
 
    <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <center><b>Handling Update Errors in Replicated Data Systems</b></center>
+    <center><b>Handling Update Errors in Replicated Data Systems via Distributed Tracing</b></center>
     <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
       <img src="/images/HUE.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
     </div>
@@ -57,7 +57,7 @@ author_profile: true
   </div>
 
    <div style="width: 400px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <center><b>AUTO-UNDO: Undoing CRDT Operations Automatically</b></center>
+    <center><b>AUTO-UNDO: Undoing CRDT Operations Automatically via Metaprogramming</b></center>
     <div style="width: 100%; height: 160px; border-radius: 6px; overflow: hidden;">
       <img src="/images/Auto-Undo.svg" alt="Project Image" style="width: 100%; height: 100%; object-fit: fill; display: block;">
     </div>

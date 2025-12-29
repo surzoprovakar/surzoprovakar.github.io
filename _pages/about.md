@@ -29,9 +29,11 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 
 <ul>
 
-<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Awarded the <ins>National Science Foundation (NSF)</ins> grant to attend the <b>Middleware 2025 Conference</b>. &#127942;</li>
+<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Presented the paper: ER-&pi;, my doctoral symposium, and one poster at <a href = "https://middleware-conf.github.io/2025/" target="_blank" rel="noopener noreferrer">ACM/IFIP/USENIX Middleware 2025</a>. </li>
 
-<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Passed my PhD Preliminary Exam and officially a PhD candidate now.</li>
+<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Awarded the <ins>National Science Foundation (NSF)</ins> travel grant to attend the <b>Middleware 2025 Conference</b>. &#127942;</li>
+
+<li><strong><span style="color:Maroon"> [Dec 2025] </span></strong> - Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.</li>
 
 <li><strong><span style="color:Maroon"> [Nov 2025] </span></strong> - Our <a href="https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact" target="_blank" rel="noopener noreferrer">ER-&pi; Artifact</a> received both <b>Artifacts Available</b> and <b>Artifacts Evaluated-Functional</b> badges at <a href = "https://middleware-conf.github.io/2025/program/accepted-paper-list/" target="_blank" rel="noopener noreferrer">Middleware 2025's Artifact Evaluation</a>. <img src="/images/artifact_available_v1.1.png" alt="Artifacts Available Badge" style="height:5%; width:5%;object-fit: contain;"> <img src="/images/artifact_functional_v1.1.png" alt="Artifacts Functional Badge" style="height:5%; width:5%;object-fit: contain;"></li>
 
@@ -57,6 +59,8 @@ Before joining Virginia Tech, I worked as a Software Engineer at <a href="https:
 <li><strong><span style="color:Maroon"> [Oct 2023] </span></strong> - Our paper <a href = "https://people.cs.vt.edu/provakar/CloudCom_23_Auto_Undo.pdf" target="_blank" rel="noopener noreferrer"> Undoing CRDT Operations Automatically</a> got accepted at <a href = "https://parsec2.unicampania.it/cloudcom2023/" target="_blank" rel="noopener noreferrer">IEEE CloudCom 2023</a>. </li>
   
 <li><strong><span style="color:Maroon"> [Aug 2023] </span></strong> - Served in the external program committee of <a href = "https://2023.splashcon.org/track/splash-2023-SPLASH-E?plenary=Hide%20plenary%20sessions" target="_blank" rel="noopener noreferrer">ACM SPLASH-E 2023</a>. </li>
+
+<li><strong><span style="color:Maroon"> [Feb 2023] </span></strong> - Passed my <mark>PhD Qualifying Exam</mark> and advanced to PhD Candidacy.</li>
 
 </ul>
 

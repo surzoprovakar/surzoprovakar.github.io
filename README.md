@@ -2,15 +2,12 @@
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/homepage?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
-\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
+\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]
  
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+*This is the source code of my homepage. I built this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
-An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[link](https://github.com/Xiao-Chenguang/minimal-light)]
-
-**The latest version of my homepage is available here: <br><https://github.com/yaoyao-liu/homepage>**
 
 ## Features
 
@@ -26,10 +23,11 @@ An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[
 ```
 .
 ├── _data                    
-|   └── publications.yml                      # the YAML file for publications
-├── _includes                    
-|   ├── publications.md                       # the Markdown file for publications
-|   └── services.md                           # the Markdown file for services
+|   └── publications.yml                      #  the YAML file for publications
+├── _includes          
+|   ├── experience.md                         #  the Markdown file for experiences          
+|   ├── publications.md                       #  the Markdown file for publications
+|   └── services.md                           #  the Markdown file for services
 ├── _layouts                  
 |   └── homepage.html                         #  the html template for the homepage 
 ├── _sass
@@ -41,10 +39,8 @@ An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[
 ├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
 ├── Gemfile                                   #  a RubyGems related file
 ├── LICENSE                                   #  the license file
+├── Makefile                                  #  For run instructions
 ├── README.md                                 #  the readme file (English)
-├── README_de.md                              #  the readme file (German)
-├── README_zh_Hans.md                         #  the readme file (Simplified Chinese)
-├── README_zh_Hant.md                         #  the readme file (Traditional Chinese)
 ├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
 └── index.md                                  #  the content of the index page, using Markdown
 ```
@@ -67,17 +63,6 @@ There are two ways to use this template on GitHub:
 
 - Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-#### Using this repository as a remote theme
-To use this theme, add the following to your repository's `_config.yml`:
-
-```yaml
-remote_theme: yaoyao-liu/minimal-light
-```
-
-Please note that adding the above line will directly apply all the default settings in this repository to yours.
-
-If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
-
 ### Using Locally with Jekyll
 
 First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
@@ -85,8 +70,8 @@ First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyll
 Then, clone this repository:
 
 ```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
+git clone https://github.com/surzoprovakar/surzoprovakar.github.io.git
+cd surzoprovakar.github.io
 ```
 Install and run:
 
@@ -157,11 +142,7 @@ Create `index.md` and add your personal information. It supports **Markdown** an
 
 ### Edit included files
 
-There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
-https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
-
-If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
-https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
+There are three markdown files included in `index.md`. They are `_includes/experience.md`, `_includes/publications.md`, and `_includes/service.md`. These three files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`.
 
 
 ### Stylesheet

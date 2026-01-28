@@ -1,0 +1,36 @@
+main:
+
+  - title: "ER&ndash;&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration"
+    authors: <strong>Provakar Mondal</strong> and Eli Tilevich
+    conference_short: MIDDLEWARE
+    conference: 26th International Middleware Conference <strong>(MIDDLEWARE)</strong>, 2025.
+    pdf: ./assets/papers/ER-PI.pdf
+    code: https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact
+    slides: ./assets/papers/ER-PI-Slides.pdf
+    image: ./assets/img/ER-PI.svg
+
+  - title: "Toward Thorough and Practical Integration Testing of Replicated Data Systems"
+    authors: <strong>Provakar Mondal</strong>
+    conference_short: MIDDLEWARE
+    conference: 26th International Middleware Conference <strong>(MIDDLEWARE DPDS)</strong>, 2025.
+    pdf: ./assets/papers/Thorough-Testing.pdf
+    code: https://github.com/surzoprovakar/Integration-Testing
+    slides: /assets/papers/Thorough-Testing-Slides.pdf
+    image: ./assets/img/Thorough-Testing.svg
+
+  - title: "Understanding Tradeoffs of Replicated Data Library Integration Strategies in Multilingual Environments"
+    authors: <strong>Provakar Mondal</strong> and Eli Tilevich
+    conference_short: MIDDLEWARE
+    conference: 26th International Middleware Conference <strong>(MIDDLEWARE DPDS)</strong>, 2025.
+    pdf: ./assets/papers/RDL-Integration-Poster.pdf
+    code: https://github.com/surzoprovakar/Multilingual-RDL
+    image: ./assets/img/RDL-Integration-Poster.svg
+
+  - title: "Undoing CRDT Operations Automatically"
+    authors: <strong>Provakar Mondal</strong> and Eli Tilevich
+    conference_short: CloudCom
+    conference: 14th International Conference on Cloud Computing Technology and Science <strong>(CloudCom)</strong>, 2023.
+    pdf: ./assets/papers/CloudCom-23-Auto-Undo.pdf
+    code: https://github.com/surzoprovakar/Undo_Script
+    slides: /assets/papers/Auto-Undo-Slides.pdf
+    image: ./assets/img/Auto-Undo.svg

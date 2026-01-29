@@ -2,10 +2,22 @@
 layout: homepage
 ---
 
+<style>
+@keyframes vt-pulse {
+  0% { color: #861F41; opacity: 1; }
+  50% { color: #E5751F; opacity: 1; } 
+  100% { color: #861F41; opacity: 1; }
+}
+.animate-vt {
+  animation: vt-pulse 3s infinite ease-in-out;
+  font-weight: bold;
+}
+</style>
+
 ## About Me
 
 <div style="text-align: justify; padding-bottom:15px">
-I am a final-year PhD student and Graduate Research Assistant in the Department of Computer Science at <b>Virginia Tech</b>, advised by <a href="https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a>. My research focuses on the intersection of <b>distributed systems, software engineering, and systems for machine learning</b>, especially improving the reliability, interoperability, and performance of replicated data systems and distributed AI models. I also work as a <a href="https://tlos.vt.edu/about/directory/personnel/mondal_p.html" target="_blank">Graduate Application Developer</a> at Virginia Tech's Division of IT, enhancing the university's Learning Management System by building Agentic workflows and RAG applications. Before joining Virginia Tech, I worked as a Software Engineer at <a href="https://research.samsung.com/srbd" target="_blank">Samsung Research Bangladesh</a>, contributing to the development of Universal Windows Platform (UWP) applications and improving real-time data synchronization for Samsung Notes. I completed my Bachelor's in Computer Science from <b>Bangladesh University of Engineering and Technology (BUET)</b>.
+I am a final-year PhD student and Graduate Research Assistant in the Department of Computer Science at <b>Virginia Tech</b>, advised by <a href="https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a>. My research focuses on the intersection of <span class="animate-vt">distributed systems, software engineering, and systems for machine learning</span>, especially improving the reliability, interoperability, and performance of replicated data systems and distributed AI models. I also work as a <a href="https://tlos.vt.edu/about/directory/personnel/mondal_p.html" target="_blank">Graduate Application Developer</a> at Virginia Tech's Division of IT, enhancing the university's Learning Management System by building Agentic workflows and RAG applications. Before joining Virginia Tech, I worked as a Software Engineer at <a href="https://research.samsung.com/srbd" target="_blank">Samsung Research Bangladesh</a>, contributing to the development of Universal Windows Platform (UWP) applications and improving real-time data synchronization for Samsung Notes. I completed my Bachelor's in Computer Science from <b>Bangladesh University of Engineering and Technology (BUET)</b>.
 </div>
 
 ## Research Interests

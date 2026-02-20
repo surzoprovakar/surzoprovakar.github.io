@@ -11,4 +11,4 @@
 <h2 id="awards" style="margin: 10px 0px 0px;">Awards</h2>
 - NSF Travel Grant: Middleware 2025 Conference
 - BitShares Fellowship (VT CS): Research Excellence in Distributed Computing (2024&ndash;2025)
-- Bangladesh Government Scholarship: Undergrad(2015&ndash;2019)
+- Bangladesh Government Scholarship: Undergrad (2015&ndash;2019) and School (2007&ndash;2014)

@@ -23,17 +23,17 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 ## Research Interests
 
 - **Distributed Systems:** Data Replication, Middleware, CRDTs, Consistency Models
-- **Software Engineering:** Integration Testing, Error Handling, Cross-language Interoperability
-- **Systems for ML:** Replicating AI Models, RAG Applications, Agentic Workflows
+- **Software Engineering:** Testing, Error Recovery, Refactoring, Language Interoperability
+- **Systems for ML:** Replicating AI Models, Agentic Workflows, RAG Applications 
 
 ## News
 
-- **[Dec. 2025]** Presented 1 paper, 1 doctoral symposium, and 1 poster at Middleware 2025.
+- **[Dec. 2025]** Presented 3 papers (1 in research track & 2 in DPDS) at Middleware 2025.
 - **[Dec. 2025]** Awarded NSF travel grant for Middleware 2025 Conference. &#127942;
 - **[Dec. 2025]** Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.
 - **[Nov. 2025]** Two papers got accepted at Middleware 2025 DPDS Track. &#x1F389;
 - **[Aug. 2025]** Started working as a Graduate Application Developer at VT's IT Division.
-- **[Jun. 2025]** Started working as an Adjunct Instructor at VT's CS Department for Summer 2025.
+- **[Jun. 2025]** Started working as an Adjunct Instructor at VT's CS Department (Summer 2025).
 - **[Mar. 2025]** Our paper ER-&pi; got accepted at Middleware 2025 Conference. &#x1F389;
 - **[Aug. 2024]** Awarded Bitshares Fellowship for research excellence in distributed computing. &#127942;
 - **[Dec. 2023]** Received my <mark>Master of Science (MSc)</mark> degree from VT CS. &#x1F393;

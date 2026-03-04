@@ -1,5 +1,13 @@
 ## Experience
 
+<div style="flex: 1; padding-bottom: 15px;">
+    <p style="margin: 0; font-size: 1em; line-height: 1.5;">
+        <strong>Graduate Research Assistant</strong><br>
+        Software Innovations Lab, Virginia Tech<br>
+        August 2021 &ndash; Present
+    </p>
+</div>
+
 <div style="flex: 1; padding-bottom: 15px">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
         <strong>Graduate Application Developer</strong><br>
@@ -18,9 +26,9 @@
 
 <div style="flex: 1; padding-bottom: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
-        <strong>Graduate Research/Teaching Assistant</strong><br>
+        <strong>Graduate Teaching Assistant</strong><br>
         Department of Computer Science, Virginia Tech<br>
-        August 2021 &ndash; May 2025
+        Fall 2021, 2022, 2024 and Spring 2022, 2025
     </p>
 </div>
 

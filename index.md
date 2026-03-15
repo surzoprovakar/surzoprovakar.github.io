@@ -27,7 +27,7 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **Systems for ML:** Replicating SLMs, Agentic Workflows, RAG Applications 
 
 ## News
-- **[Mar 2025]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;
+- **[Mar 2026]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;
 - **[Dec 2025]** Presented 3 papers (1 in research track & 2 in DPDS) at Middleware 2025.
 - **[Dec 2025]** Awarded NSF travel grant for Middleware 2025 Conference. &#127942;
 - **[Dec 2025]** Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.

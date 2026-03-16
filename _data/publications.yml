@@ -6,7 +6,6 @@ main:
     conference: Journal of Parallel and Distributed Computing <strong>(JPDC)</strong>, 2026.
     pdf: ./assets/papers/BabelRDL.pdf
     code: https://zenodo.org/records/18371279
-    # slides: ./assets/papers/ER-PI-Slides.pdf
     image: ./assets/img/BabelRDL.svg
     notes: Preprint
 

@@ -36,8 +36,8 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **[Jun 2025]** Started working as an Adjunct Instructor at VT's CS Department (Summer 2025).
 - **[Mar 2025]** Our paper ER-&pi; got accepted at Middleware 2025 Conference. &#x1F389;
 - **[Aug 2024]** Awarded Bitshares Fellowship for research excellence in distributed computing. &#127942;
-- **[Dec 2023]** Received my <mark>Master of Science (MSc)</mark> degree from VT CS. &#x1F393;
-- **[Oct 2023]** Our paper Auto-Undo got accepted at IEEE CloudCom 2023. &#x1F389;;
+- **[Dec 2023]** Received my <mark>MS along the way</mark> degree from VT CS. &#x1F393;
+- **[Oct 2023]** Our paper <span style="font-variant: small-caps;">Auto-Undo</span> got accepted at IEEE CloudCom 2023. &#x1F389;;
 - **[Feb 2023]** Passed my <mark>PhD Qualifying Exam</mark> and advanced to PhD Candidacy.
 
 {% include_relative _includes/publications.md %}

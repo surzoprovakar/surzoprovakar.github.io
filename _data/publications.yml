@@ -1,13 +1,11 @@
 main:
-
   - title: "Cross-Platform Integration and Extension of Replicated Data Libraries in Distributed Systems"
     authors: <strong>Provakar Mondal</strong> and Eli Tilevich
     conference_short: JPDC
-    conference: Journal of Parallel and Distributed Computing <strong>(JPDC)</strong>, 2026.
+    conference: Journal of Parallel and Distributed Computing <strong>(JPDC)</strong>, Volume 213, 2026.
     pdf: ./assets/papers/BabelRDL.pdf
     code: https://zenodo.org/records/18371279
     image: ./assets/img/BabelRDL.svg
-    notes: Preprint
 
   - title: "ER&ndash;&pi;: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration"
     authors: <strong>Provakar Mondal</strong> and Eli Tilevich
@@ -17,7 +15,7 @@ main:
     code: https://github.com/SoftwareInnovationsLab/ER-PI-Middleware25-Artifact
     slides: ./assets/papers/ER-PI-Slides.pdf
     image: ./assets/img/ER-PI.svg
-    notes: Artifacts Available and Functional
+    notes: Artifacts Available & Functional
 
   - title: "Toward Thorough and Practical Integration Testing of Replicated Data Systems"
     authors: <strong>Provakar Mondal</strong>

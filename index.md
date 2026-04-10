@@ -24,7 +24,7 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 
 - **Distributed Systems:** Data Replication, Middleware, CRDTs, Consistency Models
 - **Software Engineering:** Testing, Error Recovery, Refactoring, Interoperability
-- **Systems for ML:** Replicating SLMs, Agentic Workflows, RAG Applications 
+- **Systems for ML:** Agentic Workflows, Replicating SLMs, RAG Applications 
 
 ## News
 <!-- - **[May 2026]** Joined Uber as a PhD SWE Intern, Airports & Travel Team (Summer '26). -->
@@ -37,9 +37,9 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **[Aug 2025]** Started working as a Graduate Application Developer at VT's TLOS Division.
 - **[Jun 2025]** Served as an Adjunct Instructor at VT's CS Department (Summer '25).
 - **[Mar 2025]** Our paper ER-&pi; got accepted at Middleware 2025. &#x1F389;
-- **[Aug 2024]** Awarded Bitshares Fellowship for research excellence in distributed computing. &#127942;
-- **[Dec 2023]** Received my <mark>MS along the way</mark> degree from VT CS. &#x1F393;
-- **[Oct 2023]** Our paper <span style="font-variant: small-caps;">Auto-Undo</span> got accepted at IEEE CloudCom 2023. &#x1F389;;
+- **[Aug 2024]** Awarded Bitshares Fellowship from VT CS. &#127942;
+- **[Dec 2023]** Received my <mark>MS along the way</mark> degree. &#x1F393;
+- **[Oct 2023]** Our paper <span style="font-variant: small-caps;">Auto-Undo</span> got accepted at CloudCom 2023. &#x1F389;;
 - **[Feb 2023]** Passed my <mark>PhD Qualifying Exam</mark> and advanced to PhD Candidacy.
 
 {% include_relative _includes/publications.md %}

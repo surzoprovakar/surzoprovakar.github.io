@@ -1,4 +1,14 @@
 main:
+  - title: "Distributed-to-Centralized: Closing the Loop on Architecture Migration via Unification Refactoring"
+    authors: <strong>Provakar Mondal<sup>&dagger;</sup></strong>, Joshua Martin<sup>&dagger;</sup>, and Eli Tilevich
+    conference_short: ECOOP
+    conference: 40th European Conference on Object-Oriented Programming <strong>(ECOOP)</strong>, 2026.
+    pdf: ./assets/papers/jUniter.pdf
+    code: https://zenodo.org/records/16998303
+    # slides: ./assets/papers/ER-PI-Slides.pdf
+    image: ./assets/img/jUniter.svg
+    notes: Preprint, &dagger; Equal Contribution
+
   - title: "Cross-Platform Integration and Extension of Replicated Data Libraries in Distributed Systems"
     authors: <strong>Provakar Mondal</strong> and Eli Tilevich
     conference_short: JPDC

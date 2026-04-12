@@ -28,14 +28,14 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 
 ## News
 <!-- - **[May 2026]** Joined Uber as a PhD SWE Intern, Airports & Travel Team (Summer '26). -->
+<!-- - **[TBD]** Our paper <span style="font-variant: small-caps;">camel</span> got revision from JSS 2026. &#x1F389; -->
 - **[Apr 2026]** Our paper &mu;jUniter got accepted at ECOOP 2026. &#x1F389;
 - **[Mar 2026]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;
-- **[Dec 2025]** Presented 3 papers (1 in research track & 2 in DPDS) at Middleware 2025.
 - **[Dec 2025]** Awarded NSF travel grant for Middleware 2025 Conference. &#127942;
 - **[Dec 2025]** Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.
-- **[Nov 2025]** Two papers got accepted at Middleware 2025 DPDS Track. &#x1F389;
-- **[Aug 2025]** Started working as a Graduate Application Developer at VT's TLOS Division.
-- **[Jun 2025]** Served as an Adjunct Instructor at VT's CS Department (Summer '25).
+- **[Nov 2025]** My Doctoral Symposium paper & 1 Poster got accepted at Middleware 2025. &#x1F389;
+- **[Aug 2025]** Joined VT's TLOS Division as a Graduate Application Developer.
+- **[Jun 2025]** Started working as an Adjunct Instructor at VT's CS Department (Summer '25).
 - **[Mar 2025]** Our paper ER-&pi; got accepted at Middleware 2025. &#x1F389;
 - **[Aug 2024]** Awarded Bitshares Fellowship from VT CS. &#127942;
 - **[Dec 2023]** Received my <mark>MS along the way</mark> degree. &#x1F393;

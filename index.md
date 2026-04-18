@@ -33,9 +33,9 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **[Mar 2026]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;
 - **[Dec 2025]** Awarded NSF travel grant for Middleware 2025 Conference. &#127942;
 - **[Dec 2025]** Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.
-- **[Nov 2025]** My Doctoral Symposium paper & 1 Poster got accepted at Middleware 2025. &#x1F389;
+- **[Nov 2025]** 1 Doctoral Symposium paper & 1 Poster got accepted at Middleware'25. &#x1F389;
 - **[Aug 2025]** Joined VT's TLOS Division as a Graduate Application Developer.
-- **[Jun 2025]** Started working as an Adjunct Instructor at VT's CS Department (Summer '25).
+- **[Jul 2025]** Served as an Adjunct Instructor at VT's CS Department (Summer '25).
 - **[Mar 2025]** Our paper ER-&pi; got accepted at Middleware 2025. &#x1F389;
 - **[Aug 2024]** Awarded Bitshares Fellowship from VT CS. &#127942;
 - **[Dec 2023]** Received my <mark>MS along the way</mark> degree. &#x1F393;

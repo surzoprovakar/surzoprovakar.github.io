@@ -12,7 +12,7 @@
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
         <strong>Graduate Application Developer</strong><br>
         Technology-enhanced Learning and Online Strategies (TLOS), Virginia Tech<br>
-        August 2025 &ndash; Present
+        August 2025 &ndash; May 2026
     </p>
 </div>
 

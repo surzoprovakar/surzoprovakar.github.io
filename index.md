@@ -27,9 +27,7 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **Systems for ML:** Agentic Workflows, Replicating SLMs, RAG Applications 
 
 ## News
-<!-- - **[May 2026]** Joined Uber as a PhD SWE Intern, Airports & Travel Team (Summer '26). -->
-<!-- - **[TBD]** Our paper <span style="font-variant: small-caps;">camel</span> got revision from JSS 2026. &#x1F389; -->
-- **[Apr 2026]** Our paper &mu;jUniter got accepted at ECOOP 2026. &#x1F389;
+- **[May 2026]** Joined Uber as a PhD SWE Intern, Airports & Travel Team (Summer '26).
 - **[Mar 2026]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;
 - **[Dec 2025]** Awarded NSF travel grant for Middleware 2025 Conference. &#127942;
 - **[Dec 2025]** Passed my <mark>PhD Preliminary Exam</mark> and officially a PhD candidate now.

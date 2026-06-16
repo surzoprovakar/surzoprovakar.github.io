@@ -8,6 +8,14 @@
     </p>
 </div>
 
+<div style="flex: 1; padding-bottom: 15px;">
+    <p style="margin: 0; font-size: 1em; line-height: 1.5;">
+        <strong>PhD Software Engineer Intern</strong><br>
+        Airports & Travel Team, Uber<br>
+        May 2026 &ndash; July 2026
+    </p>
+</div>
+
 <div style="flex: 1; padding-bottom: 15px">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">
         <strong>Graduate Application Developer</strong><br>

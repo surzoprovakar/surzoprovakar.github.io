@@ -12,11 +12,10 @@ main:
   - title: "Automated and Configurable Undo for CRDT-Based Distributed Systems via Metaprogramming"
     authors: <strong>Provakar Mondal</strong> and Eli Tilevich
     conference_short: JSS
-    conference: Journal of Systems and Software <strong>(JSS)</strong>, 2026.
+    conference: Journal of Systems and Software <strong>(JSS)</strong>, Volume 241,2026.
     pdf: ./assets/papers/CAMEL_JSS.pdf
     code: https://zenodo.org/records/19228545
     image: ./assets/img/camel.svg
-    notes: Preprint
 
   - title: "Cross-Platform Integration and Extension of Replicated Data Libraries in Distributed Systems"
     authors: <strong>Provakar Mondal</strong> and Eli Tilevich

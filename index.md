@@ -17,7 +17,7 @@ layout: homepage
 ## About Me
 
 <div style="text-align: justify; padding-bottom:15px">
-I am a final-year PhD student and Graduate Research Assistant in the Department of Computer Science at <b>Virginia Tech</b>, advised by <a href="https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a>. My research focuses on the intersection of <span class="animate-vt">distributed systems, software engineering, and systems for machine learning</span>, especially improving the reliability, interoperability, and performance of replicated data systems and distributed AI models. I also work as a <b>Graduate Application Developer</b> at Virginia Tech's TLOS Division, enhancing the university's Learning Management System by building Agentic workflows and RAG applications. Before joining Virginia Tech, I worked as a <b>Software Engineer</b> at <a href="https://research.samsung.com/srbd" target="_blank">Samsung Research Bangladesh</a>, contributing to the development of Universal Windows Platform (UWP) applications and improving real-time data synchronization for Samsung Notes. I completed my Bachelor's in Computer Science from <b>Bangladesh University of Engineering and Technology (BUET)</b>.
+I am a final-year PhD Candidate in the Department of Computer Science at <b>Virginia Tech</b>, advised by <a href="https://people.cs.vt.edu/~tilevich/" target="_blank">Dr. Eli Tilevich</a>. My research lies at the intersection of <span class="animate-vt">distributed systems, software engineering, and systems for machine learning</span>, with a focus on reliable, interoperable, and high-performance replicated data and distributed AI systems. I also work as a <b>Graduate Application Developer</b> at Virginia Tech's TLOS Division, building Agentic workflows and RAG applications for the university's Learning Management System. During Summer 2026, I worked as a <b>PhD Software Engineer Intern</b> on <a href="https://www.uber.com/us/en/airports/" target="_blank">Uber's Airports and Travel team</a>, where I designed and deployed a real-time multi-rider trip-dispatch system across distributed backend services. Before joining Virginia Tech, I worked as a <b>Software Engineer</b> at <a href="https://research.samsung.com/srbd" target="_blank">Samsung Research Bangladesh</a>, developing Universal Windows Platform (UWP) applications and improving data synchronization for Samsung Notes. I completed my Bachelor's in Computer Science from <b>Bangladesh University of Engineering and Technology (BUET)</b>.
 </div>
 
 ## Research Interests
@@ -27,6 +27,7 @@ I am a final-year PhD student and Graduate Research Assistant in the Department 
 - **Systems for ML:** Agentic Workflows, Replicating SLMs, RAG Applications 
 
 ## News
+- **[Aug 2026]** Resumed Graduate Application Developer role at VT's TLOS Division.
 - **[Jun 2026]** Our paper <span style="font-variant: small-caps;">camel</span> &#128042; got accepted at JSS 2026. &#x1F389;
 - **[May 2026]** Joined Uber as a PhD SWE Intern, Airports & Travel Team (Summer '26).
 - **[Mar 2026]** Our paper <span style="font-variant: small-caps;">BabelRDL</span> got accepted at JPDC 2026. &#x1F389;

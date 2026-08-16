@@ -6,10 +6,17 @@ html {
 }
 
 .page-navbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
   display: flex;
   justify-content: flex-end;
   gap: 0.45rem;
-  margin: 0 0 1.6rem;
+  margin: -0.7rem 0 1.2rem;
+  padding: 0.7rem 0;
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .page-navbar a {
@@ -29,10 +36,15 @@ html {
 }
 
 .page-navbar a:hover,
-.page-navbar a:focus-visible {
+.page-navbar a:focus-visible,
+.page-navbar a.is-active {
   border-color: #043361;
   background-color: #043361;
   color: #fff;
+}
+
+.page-navbar a:hover,
+.page-navbar a:focus-visible {
   transform: translateY(-1px);
 }
 
@@ -43,13 +55,13 @@ html {
 
 #publications,
 #experience {
-  scroll-margin-top: 1rem;
+  scroll-margin-top: 4.25rem;
 }
 
 @media screen and (max-width: 960px) {
   .page-navbar {
     justify-content: center;
-    margin: 0 0 1.4rem;
+    margin: -0.7rem 0 1.1rem;
   }
 }
 

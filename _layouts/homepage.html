@@ -33,9 +33,10 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+    <link rel="stylesheet" href="./assets/css/navbar.css">
 
   </head>
-  <body>
+  <body id="top">
     <div class="wrapper">
       <header>
         
@@ -100,6 +101,12 @@
 
       </header>
       <section>
+
+      <nav class="page-navbar" aria-label="Primary navigation">
+        <a href="#top">Home</a>
+        <a href="#publications">Publications</a>
+        <a href="#experience">Experience</a>
+      </nav>
 
       {{ content }}
 

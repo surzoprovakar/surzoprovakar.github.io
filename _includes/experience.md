@@ -1,4 +1,4 @@
-## Experience
+<h2 id="experience">Experience</h2>
 
 <div style="flex: 1; padding-bottom: 15px;">
     <p style="margin: 0; font-size: 1em; line-height: 1.5;">

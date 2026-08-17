@@ -5,6 +5,31 @@ html {
   scroll-behavior: smooth;
 }
 
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.social-icons .social-logo {
+  display: block;
+  width: 1.3rem;
+  height: 1.3rem;
+  margin: 0;
+  object-fit: contain;
+}
+
+.social-icons .social-logo-linkedin {
+  width: 1.4rem;
+  height: 1.2rem;
+}
+
+.social-icons .social-logo-dblp {
+  width: 1.45rem;
+  height: 1.45rem;
+}
+
 .page-navbar {
   position: sticky;
   top: 0;

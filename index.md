@@ -39,7 +39,7 @@ I am a final-year PhD Candidate in the Department of Computer Science at <b>Virg
 - **[Mar 2025]** Our paper ER-&pi; got accepted at Middleware 2025. &#x1F389;
 - **[Aug 2024]** Awarded Bitshares Fellowship from VT CS. &#127942;
 - **[Dec 2023]** Received my <mark>MS along the way</mark> degree. &#x1F393;
-- **[Oct 2023]** Our paper <span style="font-variant: small-caps;">Auto-Undo</span> got accepted at CloudCom 2023. &#x1F389;;
+- **[Oct 2023]** Our paper <span style="font-variant: small-caps;">Auto-Undo</span> got accepted at CloudCom 2023. &#x1F389;
 - **[Feb 2023]** Passed my <mark>PhD Qualifying Exam</mark> and advanced to PhD Candidacy.
 
 {% include_relative _includes/publications.md %}
